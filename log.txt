@@ -1,0 +1,2774 @@
+2017-10-03 17:02:45
+Ad group with name '[647] Rocketpizza (10:00 - 22:00)' and id '44227142387' was updated to 'PAUSED\. 
+2017-10-03 17:02:46
+Ad group with name '[372] Gippo (10:00 - 23:20)' and id '23333090330' was updated to 'ENABLED\. 
+2017-10-03 17:02:46
+Ad group with name '[240] Bon-Ton (10:00 - 22:45)' and id '23325276170' was updated to 'ENABLED\. 
+2017-10-03 17:02:47
+Ad group with name '[23] Stop_Red Dragon (11:00 ? 23:00)' and id '23304670970' was updated to 'ENABLED\. 
+2017-10-03 17:02:48
+Ad group with name '[755] ???????' and id '46031276843' was updated to 'ENABLED\. 
+2017-10-03 17:02:49
+Ad group with name '[629] Ginza Express (09:00 - 22:00 )' and id '47985002601' was updated to 'ENABLED\. 
+2017-10-03 17:02:50
+Ad group with name '[510] ????_Pizza Go Sushi (10:00 - 23:00)' and id '24992275850' was updated to 'PAUSED\. 
+2017-10-03 17:02:50
+Ad group with name '[650] Foodzi (10:00-22:00)' and id '49723714268' was updated to 'PAUSED\. 
+2017-10-03 17:02:51
+Ad group with name '[428] Nadom.kz (24h)' and id '41105307000' was updated to 'ENABLED\. 
+2017-10-03 17:02:52
+Ad group with name '[613] ????? (10:00 - 22:00)' and id '40419178072' was updated to 'ENABLED\. 
+2017-10-03 17:02:53
+Ad group with name '[752]Stop_ Masaka Sushi (11:00 - 23:00)' and id '50254710411' was updated to 'PAUSED\. 
+2017-10-03 17:02:53
+Ad group with name '[472] ????_Funky pizza (12:00 - 00:00)' and id '23430775130' was updated to 'PAUSED\. 
+2017-10-03 17:02:54
+Ad group with name '[28] ?? ??? ?? (10:00 ? 21:30)' and id '23307731570' was updated to 'ENABLED\. 
+2017-10-03 17:02:55
+Ad group with name '[722] ??????. Stop_Vrem_????? - ????? (11:00 ? 21:30)' and id '49380880528' was updated to 'PAUSED\. 
+2017-10-03 17:02:56
+Ad group with name '[691] Pinta Pub (10:00 - 00:00)' and id '41737373422' was updated to 'ENABLED\. 
+2017-10-03 17:02:57
+Ad group with name '[699] Unagi Sushi (10:00 - 22:00)' and id '43396539305' was updated to 'ENABLED\. 
+2017-10-03 17:02:57
+Ad group with name '[600] Sushi Kot (10:00-23:00)' and id '38393016473' was updated to 'ENABLED\. 
+2017-10-03 17:02:58
+Ad group with name '[755] remarketing / without apps' and id '49228894227' was updated to 'ENABLED\. 
+2017-10-03 17:02:59
+Ad group with name '[713] XXL Food (11:00 - 23:00)' and id '44345300156' was updated to 'ENABLED\. 
+2017-10-03 17:03:00
+Ad group with name '[39] ???-??? (10:30 - 23:00)' and id '25559982530' was updated to 'PAUSED\. 
+2017-10-03 17:03:00
+Ad group with name '[658] Stop_Vrem_Tomato (12:00 - 21:00)' and id '44182984311' was updated to 'PAUSED\. 
+2017-10-03 17:03:01
+Ad group with name '[486] Bolognese (12:00 - 22:40)' and id '23384854730' was updated to 'ENABLED\. 
+2017-10-03 17:03:02
+Ad group with name '[125] ????_???????????? ??? ? ????? (11:00 ? 23:00)' and id '23315813090' was updated to 'PAUSED\. 
+2017-10-03 17:03:03
+Ad group with name '[655] Stoyn Ice Cream (10:00 - 21:30)' and id '46103913004' was updated to 'PAUSED\. 
+2017-10-03 17:03:03
+Ad group with name '[336] ????? (10:00 - 21:00)' and id '23333030570' was updated to 'ENABLED\. 
+2017-10-03 17:03:04
+Ad group with name '[661] My Meals (10:00 - 21:30)' and id '43962115825' was updated to 'PAUSED\. 
+2017-10-03 17:03:05
+Ad group with name '[561] Gippo ?????? (11:00 ? 21:00)' and id '25951292210' was updated to 'ENABLED\. 
+2017-10-03 17:03:06
+Ad group with name '[689] Lagmant (10:00-00:00)' and id '51059887664' was updated to 'ENABLED\. 
+2017-10-03 17:03:06
+Ad group with name '[325] Sushi Mania (10:00 - 23:00)' and id '23479617890' was updated to 'ENABLED\. 
+2017-10-03 17:03:07
+Ad group with name '[384] ???????????? ???? (10:00 - 22:00)' and id '23333139170' was updated to 'PAUSED\. 
+2017-10-03 17:03:08
+Ad group with name '[417] ??? ??????? (10:00 - 20:00)' and id '23483026010' was updated to 'ENABLED\. 
+2017-10-03 17:03:09
+Ad group with name '[577] Pizza Mia (10:00 - 21:00)' and id '36680366369' was updated to 'PAUSED\. 
+2017-10-03 17:03:10
+Ad group with name '[707] Papa Joe (23:00 - 07:00)' and id '43478410203' was updated to 'PAUSED\. 
+2017-10-03 17:03:10
+Ad group with name '[460] Lucky Donuts (09:00 - 18:00)' and id '23342383850' was updated to 'ENABLED\. 
+2017-10-03 17:03:11
+Ad group with name '[755] ??????? ?? "Buyers 540 days"' and id '48032041898' was updated to 'ENABLED\. 
+2017-10-03 17:03:12
+Ad group with name '[51] Stop_????????? (11:00 ? 23:00)' and id '23309862410' was updated to 'PAUSED\. 
+2017-10-03 17:03:13
+Ad group with name '[599] SUSHI'N'ROLL (10:00-22:00)' and id '35626147326' was updated to 'PAUSED\. 
+2017-10-03 17:03:13
+Ad group with name '[541] Vip ???????? (10:00 - 23:00)' and id '24605627930' was updated to 'ENABLED\. 
+2017-10-03 17:03:14
+Ad group with name '[554] ????? (12:00 - 02:00)' and id '24982795250' was updated to 'ENABLED\. 
+2017-10-03 17:03:15
+Ad group with name '[567] Rocketchefs (08:00 - 19:00)' and id '26463098690' was updated to 'ENABLED\. 
+2017-10-03 17:03:16
+Ad group with name '[305] Petrushka (11:00 - 01:00)' and id '23416774610' was updated to 'ENABLED\. 
+2017-10-03 17:03:16
+Ad group with name '[755] KFC ????????? (11:00 - 23:30)' and id '44066191679' was updated to 'ENABLED\. 
+2017-10-03 17:03:17
+Ad group with name '[129] ???? ?????' and id '46528412876' was updated to 'ENABLED\. 
+2017-10-03 17:03:18
+Ad group with name '[323] ????? ???? ???????? (10:30 - 22:00)' and id '23479384730' was updated to 'ENABLED\. 
+2017-10-03 17:03:19
+Ad group with name '[404] BarVilla (12:00 - 23:30)' and id '23444370290' was updated to 'ENABLED\. 
+2017-10-03 17:03:19
+Ad group with name '[496] ????_???????? (10:00 - 21:00)' and id '23336894090' was updated to 'PAUSED\. 
+2017-10-03 17:03:20
+Ad group with name '[388] ????? ???????? ???' and id '49136859591' was updated to 'ENABLED\. 
+2017-10-03 17:03:21
+Ad group with name '[359] CHEESY ?????? (09:00 - 19:00)' and id '23333044250' was updated to 'ENABLED\. 
+2017-10-03 17:03:22
+Ad group with name '[458] Gippo ??????? (10:00 - 22:00)' and id '23477001050' was updated to 'ENABLED\. 
+2017-10-03 17:03:22
+Ad group with name '[130] Pizza Hut (10:30 ? 23:30)' and id '23315963690' was updated to 'ENABLED\. 
+2017-10-03 17:03:23
+Ad group with name '[557] WokiPasta (10:00 - 22:00)' and id '25204934330' was updated to 'PAUSED\. 
+2017-10-03 17:03:24
+Ad group with name '[715] Qingdao (11:30- 21:00)' and id '42336105525' was updated to 'ENABLED\. 
+2017-10-03 17:03:25
+Ad group with name '[238] Qpizza (11:00 - 02:00)' and id '23417018450' was updated to 'ENABLED\. 
+2017-10-03 17:03:25
+Ad group with name '[755] remarketing / without games' and id '49138867609' was updated to 'ENABLED\. 
+2017-10-03 17:03:26
+Ad group with name '[702] Stop_Egoist (12:00 ? 21:30)' and id '46640727587' was updated to 'PAUSED\. 
+2017-10-03 17:03:27
+Ad group with name '[628] Wokker (11:00 - 23:00)' and id '37128371462' was updated to 'ENABLED\. 
+2017-10-03 17:03:28
+Ad group with name '[674] Sushi Astana (10:00 - 00:00)' and id '47269000791' was updated to 'ENABLED\. 
+2017-10-03 17:03:29
+Ad group with name '[666] Hot Dogs Corner (11:00 ? 21:30)' and id '46101486604' was updated to 'ENABLED\. 
+2017-10-03 17:03:29
+Ad group with name '[254] ????_ASSORTI (10:00 - 22:00)' and id '23325400850' was updated to 'PAUSED\. 
+2017-10-03 17:03:30
+Ad group with name '[539] ???? Samal (08:00 - 20:00)' and id '24605650850' was updated to 'ENABLED\. 
+2017-10-03 17:03:31
+Ad group with name '[373] ????_????-????? (11:00 - 00:00)' and id '25572156290' was updated to 'PAUSED\. 
+2017-10-03 17:03:32
+Ad group with name '[477] Samurai 5 sushi (10:00 - 01:00)' and id '23385631850' was updated to 'ENABLED\. 
+2017-10-03 17:03:32
+Ad group with name '[494] ?????? - ?????? (10:00 - 21:00)' and id '23383803530' was updated to 'ENABLED\. 
+2017-10-03 17:03:33
+Ad group with name '[624] ????? (11:00 - 22:00)' and id '40179821736' was updated to 'ENABLED\. 
+2017-10-03 17:03:34
+Ad group with name '[644] ??????? ????? (11:00 - 00:45)' and id '42974064658' was updated to 'ENABLED\. 
+2017-10-03 17:03:35
+Ad group with name '[129] KFC ?????? (11:00 ? 22:30)' and id '47930138098' was updated to 'ENABLED\. 
+2017-10-03 17:03:35
+Ad group with name '[205] stop_vrem_???? ???? (11:00 -21:00)' and id '39874137091' was updated to 'PAUSED\. 
+2017-10-03 17:03:36
+Ad group with name '[663] ????????? ????? (11:00 - 23:00)' and id '45772589887' was updated to 'ENABLED\. 
+2017-10-03 17:03:37
+Ad group with name '[730] GoodFood (11:00-1:00)' and id '44144763832' was updated to 'ENABLED\. 
+2017-10-03 17:03:38
+Ad group with name '[425] ?????? (10:00 - 20:00)' and id '23353440650' was updated to 'PAUSED\. 
+2017-10-03 17:03:38
+Ad group with name '[445] Stop_vrem_Irish pub Dublin (11:00 - 23:00)' and id '23353027250' was updated to 'PAUSED\. 
+2017-10-03 17:03:39
+Ad group with name '[25] Ginger Sushi ?????? (09:00 ? 21:45)' and id '23304834530' was updated to 'ENABLED\. 
+2017-10-03 17:03:40
+Ad group with name '[743] V????? (09:00 - 19:00)' and id '44991430979' was updated to 'ENABLED\. 
+2017-10-03 17:03:41
+Ad group with name '[682] Doner Stop Pizza (10:00 - 21:00)' and id '43873647589' was updated to 'ENABLED\. 
+2017-10-03 17:03:41
+Ad group with name '[403] ?????-????? (12:00 - 23:30)' and id '23442284690' was updated to 'ENABLED\. 
+2017-10-03 17:03:42
+Ad group with name '[490] Stop_Vrem_Sushi Nadom (11:00 - 00:00)' and id '23429348570' was updated to 'PAUSED\. 
+2017-10-03 17:03:43
+Ad group with name '[215] 2 Bro's Bakery (16:30 - 02:00)' and id '23416592330' was updated to 'ENABLED\. 
+2017-10-03 17:03:44
+Ad group with name '[289] ????_???? ????? (10:00 - 22:00)' and id '23328217730' was updated to 'PAUSED\. 
+2017-10-03 17:03:44
+Ad group with name '[679] Oishi sushi (10:00 - 21:00)' and id '47293523514' was updated to 'ENABLED\. 
+2017-10-03 17:03:45
+Ad group with name '[755] ???? ?????' and id '50165753201' was updated to 'ENABLED\. 
+2017-10-03 17:03:46
+Ad group with name '[456] Gelato Dolce Italia (09:00 - 19:00)' and id '23342385050' was updated to 'ENABLED\. 
+2017-10-03 17:03:47
+Ad group with name '[455] Chicken-Do (10:00 - 21:00)' and id '23342393450' was updated to 'PAUSED\. 
+2017-10-03 17:03:47
+Ad group with name '[751] Monti (10:00 - 21:30)' and id '50203794172' was updated to 'PAUSED\. 
+2017-10-03 17:03:48
+Ad group with name '[746] LabFood (11:00 - 02:00)' and id '43220336382' was updated to 'ENABLED\. 
+2017-10-03 17:03:49
+Ad group with name '[317] Paradise pizza (???. ?????????) (10:00 - 00:00)' and id '23328924050' was updated to 'ENABLED\. 
+2017-10-03 17:03:50
+Ad group with name '[505] ????_The WOODMAN grill & beer (12:00 - 22:00)' and id '23334117530' was updated to 'PAUSED\. 
+2017-10-03 17:03:51
+Ad group with name '[466] ????_Mir Food (24h)' and id '23342373650' was updated to 'PAUSED\. 
+2017-10-03 17:03:51
+Ad group with name '[217] Express Panda ?????? (11:00 - 02:00)' and id '23415343370' was updated to 'ENABLED\. 
+2017-10-03 17:03:52
+Ad group with name '[583] Masisso (10:00 - 21:00)' and id '34458428583' was updated to 'ENABLED\. 
+2017-10-03 17:03:53
+Ad group with name '[295] Maxi ???? (10:00 - 22:45)' and id '23328307970' was updated to 'ENABLED\. 
+2017-10-03 17:03:54
+Ad group with name '[631] Mealdoc (10:00 - 22:00)' and id '39904572479' was updated to 'PAUSED\. 
+2017-10-03 17:03:54
+Ad group with name '[129] ???????? ?????' and id '46148903733' was updated to 'ENABLED\. 
+2017-10-03 17:03:55
+Ad group with name '[755] Popular Sites + Demogr #2' and id '46254413517' was updated to 'ENABLED\. 
+2017-10-03 17:03:56
+Ad group with name '[246] Toppers (10:00 - 02:40)' and id '23325333050' was updated to 'ENABLED\. 
+2017-10-03 17:03:57
+Ad group with name '[227] ????_Tabuko (10:00 - 22:00)' and id '23322508130' was updated to 'PAUSED\. 
+2017-10-03 17:03:57
+Ad group with name '[431] Fusion (12:00 - 23:30)' and id '23497969610' was updated to 'ENABLED\. 
+2017-10-03 17:03:58
+Ad group with name '[755] ????? ???????? ???' and id '46031005603' was updated to 'ENABLED\. 
+2017-10-03 17:03:59
+Ad group with name '[648] Meat&Fish (10:00 - 23:00)' and id '45373022300' was updated to 'ENABLED\. 
+2017-10-03 17:04:00
+Ad group with name '[602] ????????? (11:00-23:00)' and id '48139762711' was updated to 'ENABLED\. 
+2017-10-03 17:04:00
+Ad group with name '[726] Sadu (11:00 - 21:00)' and id '44241802792' was updated to 'ENABLED\. 
+2017-10-03 17:04:01
+Ad group with name '[670] Coffee&Toffee (10:00 ? 21:30)' and id '43169382374' was updated to 'PAUSED\. 
+2017-10-03 17:04:02
+Ad group with name '[284] ????? ??????? (10:00 - 20:00)' and id '23327478290' was updated to 'PAUSED\. 
+2017-10-03 17:04:03
+Ad group with name '[335] Shinaki-sushi (10:00 - 22:00)' and id '23432832170' was updated to 'ENABLED\. 
+2017-10-03 17:04:03
+Ad group with name '[399] Mozzarella (12:00 - 23:30)' and id '23442359690' was updated to 'ENABLED\. 
+2017-10-03 17:04:04
+Ad group with name '[736] Stop_Hungry Astana (11:00 - 04:00)' and id '42363999817' was updated to 'PAUSED\. 
+2017-10-03 17:04:05
+Ad group with name '[764] Hardee`s (11:00 - 22:30)' and id '52047753052' was updated to 'ENABLED\. 
+2017-10-03 17:04:06
+Ad group with name '[706] KUSAI (10:00 - 00:00)' and id '45828949844' was updated to 'ENABLED\. 
+2017-10-03 17:04:07
+Ad group with name '[364] ??? ??????? (10:00 - 21:30)' and id '23333046410' was updated to 'ENABLED\. 
+2017-10-03 17:04:07
+Ad group with name '[105] Street bar & grill ?7 (10:00 ? 22:00)' and id '23315775650' was updated to 'ENABLED\. 
+2017-10-03 17:04:08
+Ad group with name '[282] Panda (10:00 - 22:00)' and id '23432787170' was updated to 'ENABLED\. 
+2017-10-03 17:04:09
+Ad group with name '[366] ??? ??????? (10:00 - 21:30)' and id '23422600250' was updated to 'ENABLED\. 
+2017-10-03 17:04:10
+Ad group with name '[343] Pizzaman24 (24h)' and id '44188422208' was updated to 'PAUSED\. 
+2017-10-03 17:04:10
+Ad group with name '[773] Best Burgers Quality (11:00 - 22:30)' and id '47261709552' was updated to 'ENABLED\. 
+2017-10-03 17:04:11
+Ad group with name '[683] Pizza Royal (10:00 - 21:00)' and id '44528505116' was updated to 'ENABLED\. 
+2017-10-03 17:04:12
+Ad group with name '[565] KCC (10:30 - 19:30)' and id '26462933450' was updated to 'ENABLED\. 
+2017-10-03 17:04:13
+Ad group with name '[388] ???? ?????' and id '44855708525' was updated to 'ENABLED\. 
+2017-10-03 17:04:13
+Ad group with name '[401] ???-????? (12:00 - 23:30)' and id '23444278370' was updated to 'ENABLED\. 
+2017-10-03 17:04:14
+Ad group with name '[129] ???????' and id '49135689769' was updated to 'ENABLED\. 
+2017-10-03 17:04:15
+Ad group with name '[524] ???? ? ????????? (12:00 - 23:30)' and id '23442352970' was updated to 'ENABLED\. 
+2017-10-03 17:04:16
+Ad group with name '[24] ????_Food Box (10:00 - 23:00)' and id '25567877690' was updated to 'PAUSED\. 
+2017-10-03 17:04:16
+Ad group with name '[388] remarketing / without games' and id '52106764531' was updated to 'ENABLED\. 
+2017-10-03 17:04:17
+Ad group with name '[451] Veranda (12:00 - 23:00)' and id '23342408690' was updated to 'ENABLED\. 
+2017-10-03 17:04:18
+Ad group with name '[361] Stop_Vrem_???????? (12:00 - 22:00)' and id '23333044610' was updated to 'PAUSED\. 
+2017-10-03 17:04:19
+Ad group with name '[696] Burger Club (10:00 - 23:30)' and id '41736552142' was updated to 'PAUSED\. 
+2017-10-03 17:04:20
+Ad group with name '[129] remarketing / without apps' and id '45473732140' was updated to 'ENABLED\. 
+2017-10-03 17:04:20
+Ad group with name '[653] ????? (10:00 - 21:30)' and id '43149479263' was updated to 'PAUSED\. 
+2017-10-03 17:04:21
+Ad group with name '[727] Stop_??? ???????? (11:00 - 23:00)' and id '46530378449' was updated to 'PAUSED\. 
+2017-10-03 17:04:22
+Ad group with name '[281] Sushi Time (09:00 - 01:00)' and id '23477747330' was updated to 'PAUSED\. 
+2017-10-03 17:04:22
+Ad group with name '[669] SushiMan (10:00 - 23:00)' and id '43355567726' was updated to 'ENABLED\. 
+2017-10-03 17:04:23
+Ad group with name '[755] ???????? ????????' and id '48113181044' was updated to 'ENABLED\. 
+2017-10-03 17:04:24
+Ad group with name '[635] Stop_Vrem_Bakery Street (11:00 - 20:00)' and id '40460966112' was updated to 'PAUSED\. 
+2017-10-03 17:04:25
+Ad group with name '[667] Territory (24h)' and id '53049325148' was updated to 'PAUSED\. 
+2017-10-03 17:04:25
+Ad group with name '[677] XXL Food (11:00 - 23:00)' and id '44491762775' was updated to 'ENABLED\. 
+2017-10-03 17:04:26
+Ad group with name '[731] ????????? (11:00 - 23:00)' and id '47052220714' was updated to 'ENABLED\. 
+2017-10-03 17:04:27
+Ad group with name '[767] Stop_One Coin Pizza (12:00 - 23:45)' and id '45113575909' was updated to 'PAUSED\. 
+2017-10-03 17:04:28
+Ad group with name '[721] DAYAKO FOOD (11:00 - 22:30)' and id '43666569094' was updated to 'ENABLED\. 
+2017-10-03 17:04:28
+Ad group with name '[646] Banzai (10:00 -01:00)' and id '46963025451' was updated to 'ENABLED\. 
+2017-10-03 17:04:29
+Ad group with name '[690] Pinta Pizza (10:00-00:00)' and id '48135164131' was updated to 'ENABLED\. 
+2017-10-03 17:04:30
+Ad group with name '[692] Pinta Sushi (10:00-00:00)' and id '47902659001' was updated to 'ENABLED\. 
+2017-10-03 17:04:31
+Ad group with name '[656] Stop_Vrem_Pizza Italiano (12:00 ? 00:00)' and id '47128643929' was updated to 'PAUSED\. 
+2017-10-03 17:04:31
+Ad group with name '[605] ???????? (10:00 - 21:00)' and id '37432794239' was updated to 'PAUSED\. 
+2017-10-03 17:04:32
+Ad group with name '[738] ????????? ??? (10:00 ? 00:00)' and id '42360820977' was updated to 'PAUSED\. 
+2017-10-03 17:04:33
+Ad group with name '[630] Sharrua (10:00 - 21:00)' and id '42552872280' was updated to 'PAUSED\. 
+2017-10-03 17:04:34
+Ad group with name '[668] Abba Sushi (11:00 - 00:00)' and id '42103184142' was updated to 'ENABLED\. 
+2017-10-03 17:04:34
+Ad group with name '[436] Tokyo (11:00 - 22:30)' and id '23442267770' was updated to 'ENABLED\. 
+2017-10-03 17:04:35
+Ad group with name '[160] Ciao Pizza & ??????? (10:00 ? 23:20)' and id '23316242570' was updated to 'ENABLED\. 
+2017-10-03 17:04:36
+Ad group with name '[412] ????_PizzaMania (10:00 - 00:00)' and id '23385976850' was updated to 'PAUSED\. 
+2017-10-03 17:04:37
+Ad group with name '[478] SDFood (10:00 - 23:00)' and id '23477007170' was updated to 'ENABLED\. 
+2017-10-03 17:04:38
+Ad group with name '[621] ???? (10:00 - 21:00)' and id '39495122835' was updated to 'PAUSED\. 
+2017-10-03 17:04:39
+Ad group with name '[559] ????_Uno Dos Tacos (10:00 - 22:00)' and id '27126044570' was updated to 'PAUSED\. 
+2017-10-03 17:04:39
+Ad group with name '[536] Quick Pizza (10:00 - 22:00)' and id '23428462130' was updated to 'PAUSED\. 
+2017-10-03 17:04:40
+Ad group with name '[434] ?????? (10:00 - 21:00)' and id '25571788370' was updated to 'PAUSED\. 
+2017-10-03 17:04:41
+Ad group with name '[620] ????????? ????? (10:00 - 23:00)' and id '38424821476' was updated to 'ENABLED\. 
+2017-10-03 17:04:42
+Ad group with name '[37] ????_Del Papa (11:00 - 23:00)' and id '36650037031' was updated to 'PAUSED\. 
+2017-10-03 17:04:42
+Ad group with name '[675] Sadu_restoran (11:00 - 21:00)' and id '43001332765' was updated to 'ENABLED\. 
+2017-10-03 17:04:43
+Ad group with name '[593] ??????? (9:00 - 21:00)' and id '38626002918' was updated to 'ENABLED\. 
+2017-10-03 17:04:44
+Ad group with name '[388] Popular Sites + Demogr #2' and id '45853514069' was updated to 'ENABLED\. 
+2017-10-03 17:04:44
+Ad group with name '[266] Wokpanda_?????? (11:00 - 02:00)' and id '23415192890' was updated to 'ENABLED\. 
+2017-10-03 17:04:45
+Ad group with name '[388] KFC ?????? (11:00 - 23:30)' and id '45546458559' was updated to 'ENABLED\. 
+2017-10-03 17:04:46
+Ad group with name '[756] KFC ???????? (11:00 - 23:30)' and id '53592518148' was updated to 'ENABLED\. 
+2017-10-03 17:04:47
+Ad group with name '[642] Versailles (10:00 - 21:00)' and id '43045258044' was updated to 'PAUSED\. 
+2017-10-03 17:04:47
+Ad group with name '[129] Popular Sites + Demogr #1' and id '47240898635' was updated to 'ENABLED\. 
+2017-10-03 17:04:48
+Ad group with name '[129] Popular Sites + Demogr #2' and id '46797949179' was updated to 'ENABLED\. 
+2017-10-03 17:04:49
+Ad group with name '[523] ????_???? ??? (11:00 - 02:00)' and id '23383722410' was updated to 'PAUSED\. 
+2017-10-03 17:04:50
+Ad group with name '[509] ????????-??????????? (12:00 - 21:30)' and id '23334087890' was updated to 'PAUSED\. 
+2017-10-03 17:04:50
+Ad group with name '[756] ????? ?????' and id '46618881055' was updated to 'ENABLED\. 
+2017-10-03 17:04:51
+Ad group with name '[569] Sadu (10:00 - 22:00)' and id '26940359090' was updated to 'PAUSED\. 
+2017-10-03 17:04:52
+Ad group with name '[673] Arigato (11:00 - 23:00)' and id '41725117163' was updated to 'ENABLED\. 
+2017-10-03 17:04:53
+Ad group with name '[31] ????? ????? ? ??????? (11:00 ? 22:30)' and id '23307734090' was updated to 'ENABLED\. 
+2017-10-03 17:04:54
+Ad group with name '[704] ???? ?????? (11:00 - 23:00)' and id '43719063585' was updated to 'ENABLED\. 
+2017-10-03 17:04:54
+Ad group with name '[81] ?????????? (12:00 - 18:00)' and id '25572340610' was updated to 'ENABLED\. 
+2017-10-03 17:04:55
+Ad group with name '[574] Stop_vrem_Rustica (11:00-21:00)' and id '40442182024' was updated to 'PAUSED\. 
+2017-10-03 17:04:56
+Ad group with name '[695] VIP Sushi (10:00 - 00:00)' and id '49394896208' was updated to 'ENABLED\. 
+2017-10-03 17:04:57
+Ad group with name '[755] ????? ?????' and id '50427623670' was updated to 'ENABLED\. 
+2017-10-03 17:04:57
+Ad group with name '[388] ????? ?????' and id '49226804587' was updated to 'ENABLED\. 
+2017-10-03 17:04:58
+Ad group with name '[45] Stop_OZYURT (11:00 ? 20:00)' and id '23308071050' was updated to 'PAUSED\. 
+2017-10-03 17:04:59
+Ad group with name '[717] Dolce cafe (12:00 - 01:00)' and id '45717477484' was updated to 'ENABLED\. 
+2017-10-03 17:05:00
+Ad group with name '[740] ???? (12:00 ? 21:00)' and id '42634902925' was updated to 'ENABLED\. 
+2017-10-03 17:05:01
+Ad group with name '[549] ????? ?????? (11:00 - 00:00)' and id '24992291570' was updated to 'ENABLED\. 
+2017-10-03 17:05:01
+Ad group with name '[535] ????_Morimoto (11:00 - 23:00)' and id '24605696210' was updated to 'PAUSED\. 
+2017-10-03 17:05:02
+Ad group with name '[649] Bkitzer (10:00 - 21:30)' and id '46890432692' was updated to 'ENABLED\. 
+2017-10-03 17:05:03
+Ad group with name '[43] La Tartine (09:00 - 19:00)' and id '26116635890' was updated to 'ENABLED\. 
+2017-10-03 17:05:03
+Ad group with name '[239] Donalds (10:00 - 22:00)' and id '23325150770' was updated to 'ENABLED\. 
+2017-10-03 17:05:04
+Ad group with name '[617] ChesnOk (10:00 - 21:30)' and id '41057844151' was updated to 'PAUSED\. 
+2017-10-03 17:05:05
+Ad group with name '[609] ??????? (10:00 - 23:00)' and id '46166415538' was updated to 'ENABLED\. 
+2017-10-03 17:05:06
+Ad group with name '[714] Rustica (12:00-21:00)' and id '45504282858' was updated to 'ENABLED\. 
+2017-10-03 17:05:07
+Ad group with name '[220] FISH?n?ROLL (10:00 - 02:00)' and id '23320821170' was updated to 'PAUSED\. 
+2017-10-03 17:05:07
+Ad group with name '[756] ????? ???????? ???' and id '48113508844' was updated to 'ENABLED\. 
+2017-10-03 17:05:08
+Ad group with name '[304] ????_??? ???? (08:00 - 21:00)' and id '23328340970' was updated to 'PAUSED\. 
+2017-10-03 17:05:09
+Ad group with name '[297] ??? ????????? (11:00 - 22:00)' and id '23328316370' was updated to 'ENABLED\. 
+2017-10-03 17:05:10
+Ad group with name '[551] Geisha sushi (11:00 - 01:00)' and id '24992102570' was updated to 'ENABLED\. 
+2017-10-03 17:05:11
+Ad group with name '[686] Koonjoot (09:00 - 21:00)' and id '47289202034' was updated to 'ENABLED\. 
+2017-10-03 17:05:12
+Ad group with name '[723] Stop_???? (11:00 ? 23:00)' and id '42012525737' was updated to 'PAUSED\. 
+2017-10-03 17:05:13
+Ad group with name '[712] Z????? (00:00-00:00)' and id '39741926370' was updated to 'PAUSED\. 
+2017-10-03 17:05:14
+Ad group with name '[408] Love Sushi (10:00 - 23:00)' and id '23394247130' was updated to 'ENABLED\. 
+2017-10-03 17:05:14
+Ad group with name '[610] Turandot (12:00 - 23:00)' and id '36677871265' was updated to 'ENABLED\. 
+2017-10-03 17:05:15
+Ad group with name '[747] stop_Besh (11:00 - 21:30)' and id '40080229890' was updated to 'PAUSED\. 
+2017-10-03 17:05:16
+Ad group with name '[388] ??????? ?? "Buyers 540 days"' and id '47465215878' was updated to 'ENABLED\. 
+2017-10-03 17:05:17
+Ad group with name '[632] ??? ????? (10:00 - 17:00)' and id '39234752814' was updated to 'PAUSED\. 
+2017-10-03 17:05:17
+Ad group with name '[129] ???????? ????????' and id '48277101274' was updated to 'ENABLED\. 
+2017-10-03 17:05:18
+Ad group with name '[600] Sushi-kot (10:00 - 23:00)' and id '47290120458' was updated to 'ENABLED\. 
+2017-10-03 17:05:19
+Ad group with name '[580] Excellent (10:00 - 00:00)' and id '34857553580' was updated to 'PAUSED\. 
+2017-10-03 17:05:20
+Ad group with name '[62] ?? ????? (10:00 - 21:00)' and id '50216298468' was updated to 'PAUSED\. 
+2017-10-03 17:05:20
+Ad group with name '[538] Ninja (10:00 - 22:00)' and id '23478934250' was updated to 'ENABLED\. 
+2017-10-03 17:05:21
+Ad group with name '[350] Sushiwok (11:00 - 00:00)' and id '23417217290' was updated to 'ENABLED\. 
+2017-10-03 17:05:22
+Ad group with name '[176] ????????? ??????? (24h)' and id '38791852535' was updated to 'ENABLED\. 
+2017-10-03 17:05:23
+Ad group with name '[753] ???? ???? (11:00 - 23:00)' and id '46282724564' was updated to 'ENABLED\. 
+2017-10-03 17:05:23
+Ad group with name '[525] Prime Bakery (08:00 - 18:00)' and id '23333468090' was updated to 'PAUSED\. 
+2017-10-03 17:05:24
+Ad group with name '[129] ????? ???????? ???' and id '50162698201' was updated to 'ENABLED\. 
+2017-10-03 17:05:25
+Ad group with name '[555] ????? (12:00 - 02:00)' and id '25006223210' was updated to 'ENABLED\. 
+2017-10-03 17:05:26
+Ad group with name '[618] ????? (10:00 - 22:00)' and id '40410477576' was updated to 'ENABLED\. 
+2017-10-03 17:05:26
+Ad group with name '[652] The ???? (12:00 - 00:00)' and id '44062281800' was updated to 'ENABLED\. 
+2017-10-03 17:05:27
+Ad group with name '[498] ????????? (10:00 - 22:30)' and id '23334147290' was updated to 'ENABLED\. 
+2017-10-03 17:05:28
+Ad group with name '[720] ?????? (11:00 - 01:00)' and id '39488048850' was updated to 'ENABLED\. 
+2017-10-03 17:05:29
+Ad group with name '[728] Mamma Mia's Pizza (22:00 ? 3:00)' and id '46688254474' was updated to 'PAUSED\. 
+2017-10-03 17:05:29
+Ad group with name '[476] ?????? ???? (09:00 - 01:00)' and id '23337637130' was updated to 'PAUSED\. 
+2017-10-03 17:05:30
+Ad group with name '[322] ??????? (10:30 - 22:00)' and id '23482362650' was updated to 'ENABLED\. 
+2017-10-03 17:05:31
+Ad group with name '[388] ???????' and id '51956567648' was updated to 'ENABLED\. 
+2017-10-03 17:05:32
+Ad group with name '[268] Pizza One (10:00 -  00:00)' and id '23325498890' was updated to 'PAUSED\. 
+2017-10-03 17:05:32
+Ad group with name '[166] ? ????????? - ???????? ????? (10:00 ? 22:00)' and id '23316553250' was updated to 'PAUSED\. 
+2017-10-03 17:05:33
+Ad group with name '[616] Palau (10:00 - 22:00)' and id '33651527930' was updated to 'PAUSED\. 
+2017-10-03 17:05:34
+Ad group with name '[771] ????????? (12:00 - 22:30)' and id '47343148536' was updated to 'ENABLED\. 
+2017-10-03 17:05:35
+Ad group with name '[637] ??? ??????? (10:00 - 22:30)' and id '39939387345' was updated to 'ENABLED\. 
+2017-10-03 17:05:35
+Ad group with name '[733] Tatin (10:00 - 22:00)' and id '43105301934' was updated to 'ENABLED\. 
+2017-10-03 17:05:36
+Ad group with name '[745] ?????? (11:00 - 22:00)' and id '44460534717' was updated to 'ENABLED\. 
+2017-10-03 17:05:37
+Ad group with name '[397] Wok Wok (12:00 - 23:30)' and id '23438698730' was updated to 'ENABLED\. 
+2017-10-03 17:05:38
+Ad group with name '[596] Atlas Wok (11:00 - 01:00)' and id '38824256383' was updated to 'ENABLED\. 
+2017-10-03 17:05:38
+Ad group with name '[129] ?????? ?????' and id '46747876792' was updated to 'ENABLED\. 
+2017-10-03 17:05:39
+Ad group with name '[388] remarketing / without apps' and id '47464899558' was updated to 'ENABLED\. 
+2017-10-03 17:05:40
+Ad group with name '[275] ??????????? (10:00 - 22:00)' and id '26359062170' was updated to 'ENABLED\. 
+2017-10-03 17:05:41
+Ad group with name '[315] Copacabana (11:00 - 00:30)' and id '24605833130' was updated to 'ENABLED\. 
+2017-10-03 17:05:42
+Ad group with name '[741] Inclair (10:00 - 22:00)' and id '47469335914' was updated to 'PAUSED\. 
+2017-10-03 17:05:42
+Ad group with name '[556] Anor (11:00 - 00:00)' and id '25272582530' was updated to 'ENABLED\. 
+2017-10-03 17:05:43
+Ad group with name '[216] CHEESY (09:00 - 19:00)' and id '23415461570' was updated to 'ENABLED\. 
+2017-10-03 17:05:44
+Ad group with name '[681] Momento (10:00 - 21:00)' and id '50089124371' was updated to 'ENABLED\. 
+2017-10-03 17:05:45
+Ad group with name '[687] ??????? (10:00 - 21:00)' and id '44171974495' was updated to 'PAUSED\. 
+2017-10-03 17:05:45
+Ad group with name '[121] ????_??????? ???? (11:00 ? 22:00)' and id '23315806370' was updated to 'PAUSED\. 
+2017-10-03 17:05:46
+Ad group with name '[678] Garden Food (11:00 - 01:00)' and id '43748357018' was updated to 'ENABLED\. 
+2017-10-03 17:05:47
+Ad group with name '[676] Stop_OZYURT (11:00 - 21:00)' and id '45286728875' was updated to 'PAUSED\. 
+2017-10-03 17:05:48
+Ad group with name '[607] Bambino (10:00 - 21:00)' and id '49310965367' was updated to 'ENABLED\. 
+2017-10-03 17:05:48
+Ad group with name '[283] ????? (10:00 - 20:00)' and id '23326031810' was updated to 'PAUSED\. 
+2017-10-03 17:05:49
+Ad group with name '[422] ???????? ??????? (10:00 - 23:45)' and id '23483248370' was updated to 'ENABLED\. 
+2017-10-03 17:05:50
+Ad group with name '[665] Perchik (11:00 - 01:30)' and id '44630863415' was updated to 'ENABLED\. 
+2017-10-03 17:05:51
+Ad group with name '[362] Turandot (11:00 - 23:00)' and id '23333045450' was updated to 'ENABLED\. 
+2017-10-03 17:05:52
+Ad group with name '[725] Stop_Shelk (16:00 - 21:30)' and id '47464070074' was updated to 'PAUSED\. 
+2017-10-03 17:05:53
+Ad group with name '[548] Chicken ?? (11:00 - 22:00)' and id '24995351450' was updated to 'ENABLED\. 
+2017-10-03 17:05:54
+Ad group with name '[388] ???????? ?????' and id '44855729005' was updated to 'ENABLED\. 
+2017-10-03 17:05:55
+Ad group with name '[710] Buy Chicken (11:00 - 21:00)' and id '43072933119' was updated to 'ENABLED\. 
+2017-10-03 17:05:55
+Ad group with name '[407] 2 ?????? (10:00 - 23:00)' and id '23394260330' was updated to 'ENABLED\. 
+2017-10-03 17:05:56
+Ad group with name '[376] ????_Mega sushi (11:00 - 00:00)' and id '23333138330' was updated to 'PAUSED\. 
+2017-10-03 17:05:57
+Ad group with name '[32] ???? ?????? - ???? ?????? (11:00 ? 01:30)' and id '23307741290' was updated to 'ENABLED\. 
+2017-10-03 17:05:58
+Ad group with name '[757] ?? ??? (12:00 - 05:00)' and id '43851868257' was updated to 'ENABLED\. 
+2017-10-03 17:05:58
+Ad group with name '[719] ????? sushi (11:00 - 01:00)' and id '42950873414' was updated to 'ENABLED\. 
+2017-10-03 17:05:59
+Ad group with name '[22] ????_Fishka (10:30 - 20:30)' and id '23304430130' was updated to 'PAUSED\. 
+2017-10-03 17:06:00
+Ad group with name '[643] NexxioPizza (11:00 - 00:00)' and id '45534929195' was updated to 'ENABLED\. 
+2017-10-03 17:06:01
+Ad group with name '[520] Rakudza (11:00 - 01:30)' and id '23333639810' was updated to 'ENABLED\. 
+2017-10-03 17:06:01
+Ad group with name '[772] Burrito Go (11:00 - 21:30)' and id '55425869508' was updated to 'ENABLED\. 
+2017-10-03 17:06:02
+Ad group with name '[698] DosFood Express (00:00 - 00:00)' and id '43065274046' was updated to 'ENABLED\. 
+2017-10-03 17:06:03
+Ad group with name '[347] Mr. Sushi (10:00 - 22:45)' and id '23333036330' was updated to 'ENABLED\. 
+2017-10-03 17:06:04
+Ad group with name '[409] Ginza (09:00 - 22:00)' and id '23386019810' was updated to 'ENABLED\. 
+2017-10-03 17:06:04
+Ad group with name '[493] Stop_?????? (12:00 - 00:00)' and id '23429233490' was updated to 'PAUSED\. 
+2017-10-03 17:06:05
+Ad group with name '[560] Qazaq Pie (09:00 - 19:00)' and id '25527636290' was updated to 'PAUSED\. 
+2017-10-03 17:06:06
+Ad group with name '[640] Bubble Waffle (10:00 - 21:00)' and id '43076362449' was updated to 'PAUSED\. 
+2017-10-03 17:06:07
+Ad group with name '[529] SUSHI??? (10:00 - 21:30)' and id '23333451650' was updated to 'ENABLED\. 
+2017-10-03 17:06:07
+Ad group with name '[398] ????? (12:00 - 23:30)' and id '45453736275' was updated to 'ENABLED\. 
+2017-10-03 17:06:08
+Ad group with name '[462] Stop_???????? (11:00 - 23:00)' and id '23477003210' was updated to 'PAUSED\. 
+2017-10-03 17:06:09
+Ad group with name '[495] Stop_Vrem_Night Star (11:00 - 23:00)' and id '23336898170' was updated to 'PAUSED\. 
+2017-10-03 17:06:10
+Ad group with name '[742] ????z - ???????, ??? ?????? (10:00 - 21:00)' and id '47308399329' was updated to 'PAUSED\. 
+2017-10-03 17:06:10
+Ad group with name '[711] ?????? ??????? (10:00-21:00)' and id '43433190945' was updated to 'ENABLED\. 
+2017-10-03 17:06:11
+Ad group with name '[287] ??????? (10:00 - 22:00)' and id '23328141050' was updated to 'ENABLED\. 
+2017-10-03 17:06:12
+Ad group with name '[50] ??????? (11:00 ? 23:00)' and id '23309149730' was updated to 'PAUSED\. 
+2017-10-03 17:06:13
+Ad group with name '[126] Shipudim (12:00 ? 22:00)' and id '23315814890' was updated to 'ENABLED\. 
+2017-10-03 17:06:13
+Ad group with name '[708] Sensei pizza (10:00 - 22:00)' and id '43708394557' was updated to 'ENABLED\. 
+2017-10-03 17:06:14
+Ad group with name '[546] ????_???? ??????????? (08:00 - 21:00)' and id '24605012090' was updated to 'PAUSED\. 
+2017-10-03 17:06:15
+Ad group with name '[625] ??? ??????? (11:00 - 23:30)' and id '42505206840' was updated to 'ENABLED\. 
+2017-10-03 17:06:16
+Ad group with name '[389] Mckaeen&Chicago Dogs (10:00 - 22:00)' and id '25572094730' was updated to 'PAUSED\. 
+2017-10-03 17:06:16
+Ad group with name '[465] ?????? (?????????) (10:00 - 23:00)' and id '23342374130' was updated to 'PAUSED\. 
+2017-10-03 17:06:17
+Ad group with name '[737] SMcake (10:00 - 19:00)' and id '44287587356' was updated to 'PAUSED\. 
+2017-10-03 17:06:18
+Ad group with name '[267] Stop_Wokpanda (12:00 - 00:00)' and id '23417065010' was updated to 'PAUSED\. 
+2017-10-03 17:06:19
+Ad group with name '[521] Caffeterria (10:00 - 19:00)' and id '23333628290' was updated to 'PAUSED\. 
+2017-10-03 17:06:19
+Ad group with name '[432] ??? ??????? (10:00 - 21:00)' and id '23503633010' was updated to 'ENABLED\. 
+2017-10-03 17:06:20
+Ad group with name '[473] ??????? ?????? ?????? (11:00 - 23:00)' and id '23342372330' was updated to 'ENABLED\. 
+2017-10-03 17:06:21
+Ad group with name '[358] Red Dragon Asian fast food (11:00 - 23:00)' and id '23333042570' was updated to 'ENABLED\. 
+2017-10-03 17:06:22
+Ad group with name '[388] ???????? ????????' and id '47465215358' was updated to 'ENABLED\. 
+2017-10-03 17:06:22
+Ad group with name '[608] Stop_Turandot (12:00 - 00:00)' and id '38192497857' was updated to 'PAUSED\. 
+2017-10-03 17:06:23
+Ad group with name '[770] Hardee`s (11:00 - 22:30)' and id '51964248608' was updated to 'ENABLED\. 
+2017-10-03 17:06:24
+Ad group with name '[129] ??????? ?? "Buyers 540 days"' and id '48941590480' was updated to 'ENABLED\. 
+2017-10-03 17:06:25
+Ad group with name '[129] remarketing / without games' and id '44301102705' was updated to 'ENABLED\. 
+2017-10-03 17:06:25
+Ad group with name '[388] Popular Sites + Demogr #1' and id '48112835204' was updated to 'ENABLED\. 
+2017-10-03 17:06:26
+Ad group with name '[488] 2Bro?s delivery (12:00 - 03:00)' and id '23384740130' was updated to 'ENABLED\. 
+2017-10-03 17:06:27
+Ad group with name '[332] Shinaki sushi (10:00 - 21:00)' and id '23328966530' was updated to 'PAUSED\. 
+2017-10-03 17:06:28
+Ad group with name '[33] ? ????????? (10:00 ? 22:00)' and id '23308148090' was updated to 'PAUSED\. 
+2017-10-03 17:06:28
+Ad group with name '[693] Stop_Vrem_????? ???? (11:00 ? 02:30)' and id '44455376775' was updated to 'PAUSED\. 
+2017-10-03 17:06:29
+Ad group with name '[532] Arti grande (10:00 - 00:00)' and id '23342370770' was updated to 'PAUSED\. 
+2017-10-03 17:06:30
+Ad group with name '[672] ?????? (10:00 - 23:30)' and id '50155501892' was updated to 'ENABLED\. 
+2017-10-03 17:06:30
+Ad group with name '[367] ??? ??????? (10:00 - 22:30)' and id '23482970090' was updated to 'ENABLED\. 
+2017-10-03 17:06:31
+Ad group with name '[365] ??? ???????_?????? (10:00 - 21:00 )' and id '23410404050' was updated to 'ENABLED\. 
+2017-10-03 17:06:32
+Ad group with name '[61] ????? ????_?????? (11:00 - 22:00)' and id '23416694330' was updated to 'ENABLED\. 
+2017-10-03 17:06:33
+Ad group with name '[439] The Flame. WOK cafe (10:00 - 21:00)' and id '23352942530' was updated to 'PAUSED\. 
+2017-10-03 17:06:33
+Ad group with name '[388] ?????? ?????' and id '43164918701' was updated to 'ENABLED\. 
+2017-10-03 17:06:34
+Ad group with name '[27] ???? ?????? (09:45 ? 23:00)' and id '23307724970' was updated to 'ENABLED\. 
+2017-10-03 17:06:35
+Ad group with name '[755] ?????? ?????' and id '48032745562' was updated to 'ENABLED\. 
+2017-10-03 17:06:36
+Ad group with name '[755] Popular Sites + Demogr #1' and id '53288556424' was updated to 'ENABLED\. 
+2017-10-03 17:06:36
+Ad group with name '[755] Popular Sites + Demogr #3' and id '46031005563' was updated to 'ENABLED\. 
+2017-10-03 17:06:37
+Ad group with name '[598] Pelati (10:00 - 22:00)' and id '38391766793' was updated to 'PAUSED\. 
+2017-10-03 17:06:38
+Ad group with name '[671] Stop_Vrem_Glen pub (11:00-21:30)' and id '50558633188' was updated to 'PAUSED\. 
+2017-10-03 17:06:39
+Ad group with name '[388] Popular Sites + Demogr #3' and id '51956512728' was updated to 'ENABLED\. 
+2017-10-03 17:06:39
+Ad group with name '[540] ????_Chefpizza (10:00 - 23:00)' and id '24605639810' was updated to 'PAUSED\. 
+2017-10-03 17:06:40
+Ad group with name '[611] Sushigam (11:00 - 01:00)' and id '48473344067' was updated to 'ENABLED\. 
+2017-10-03 17:06:41
+Ad group with name '[619] ???????? (10:00 - 21:00)' and id '39966006197' was updated to 'PAUSED\. 
+2017-10-03 17:06:42
+Ad group with name '[307] ?????????? (11:00 - 00:00)' and id '23416948250' was updated to 'ENABLED\. 
+2017-10-03 17:06:42
+Ad group with name '[626] Stop_Mega sushi (11:00 -01:00)' and id '40416502752' was updated to 'PAUSED\. 
+2017-10-03 17:06:43
+Ad group with name '[435] ????_Barashek (11:00 - 22:00)' and id '23353097330' was updated to 'PAUSED\. 
+2017-10-03 17:06:44
+Ad group with name '[47] ? ????????? (????-????) (10:00 ? 15:00)' and id '23308180250' was updated to 'PAUSED\. 
+2017-10-03 17:06:45
+Ad group with name '[480] ?????? (10:00 - 23:30)' and id '23477504330' was updated to 'ENABLED\. 
+2017-10-03 17:06:45
+Ad group with name '[718] Gourmet Burger Station (12:00- 21:00)' and id '43512453483' was updated to 'ENABLED\. 
+2017-10-03 17:06:46
+Ad group with name '[755] ???????? ?????' and id '49138986449' was updated to 'ENABLED\. 
+2017-10-03 17:06:47
+Ad group with name '[512] ????_OK - dostavka (10:00 - 22:00)' and id '23333663930' was updated to 'PAUSED\. 
+2017-10-03 17:06:47
+Ad group with name '[430] Nori (11:00 - 00:00)' and id '23503586810' was updated to 'ENABLED\. 
+2017-10-03 17:06:48
+Ad group with name '[763] Absolute (13:00 - 02:00)' and id '49082195247' was updated to 'ENABLED\. 
+2017-10-03 17:06:49
+Ad group with name '[603] ??? (11:00 - 21:00)' and id '41973262488' was updated to 'ENABLED\. 
+2017-10-03 17:06:50
+Ad group with name '[936] Yum-Yum (09:30 - 2:30)' and id '46532493563' was updated to 'ENABLED\. 
+2017-10-03 17:06:50
+Ad group with name '[165] Arirang (10:00 ? 22:00)' and id '23316382610' was updated to 'ENABLED\. 
+2017-10-03 17:06:51
+Ad group with name '[442] Sushi Mania (10:00 - 23:00)' and id '23483353730' was updated to 'ENABLED\. 
+2017-10-03 17:06:52
+Ad group with name '[688] ???? ? ??? (10:00 - 23:30)' and id '40700649981' was updated to 'ENABLED\. 
+2017-10-03 17:06:53
+Ad group with name '[218] Samurai Sushi (10:00 - 21:30)' and id '23320789250' was updated to 'ENABLED\. 
+2017-10-03 17:06:53
+Ad group with name '[441] Vorona-Verona (09:00 - 20:00)' and id '23342450330' was updated to 'PAUSED\. 
+2017-10-03 17:06:54
+Ad group with name '[533] ??? FOOD (11:00 - 22:00)' and id '23336897330' was updated to 'ENABLED\. 
+2017-10-03 17:06:55
+Ad group with name '[370] ??? ??????? (10:00 - 21:30)' and id '23483003930' was updated to 'ENABLED\. 
+2017-10-03 17:06:56
+Ad group with name '[534] PizzaSushi24 (24h)' and id '38156394465' was updated to 'PAUSED\. 
+2017-10-03 17:06:56
+Ad group with name '[636] ??? ??????? (10:00 - 22:30)' and id '52347731491' was updated to 'ENABLED\. 
+2017-10-03 17:06:57
+Ad group with name '[694] Cosa Nostra (14:00 - 02:00)' and id '52312980428' was updated to 'ENABLED\. 
+2017-10-03 17:06:58
+Ad group with name '[162] ?????? (12:00 ? 19:30)' and id '23316350330' was updated to 'ENABLED\. 
+2017-10-03 17:06:59
+Ad group with name '[437] RUMI (10:30 - 23:00)' and id '23353056770' was updated to 'PAUSED\. 
+2017-10-03 17:06:59
+Ad group with name '[645] Sakura sushi (11:00 - 01:30)' and id '44099310449' was updated to 'ENABLED\. 
+2017-10-03 17:07:00
+Ad group with name '[703] ParaPalok (12:00 - 02:00)' and id '49519818611' was updated to 'ENABLED\. 
+2017-10-03 17:07:01
+Ad group with name '[271] Express Panda (12:00 - 00:00)' and id '23417029370' was updated to 'PAUSED\. 
+2017-10-03 17:07:02
+Ad group with name '[592] Food Cultura (08:00 - 17:00)' and id '35334628025' was updated to 'PAUSED\. 
+2017-10-03 17:07:02
+Ad group with name '[558] Entrecote (10:00 - 22:00)' and id '25273179530' was updated to 'ENABLED\. 
+2017-10-03 17:07:03
+Ad group with name '[761] BBQ NOMADS (18:00 - 13:00)' and id '46214762599' was updated to 'PAUSED\. 
+2017-10-03 17:07:04
+Ad group with name '[639] ??????? (11:00 - 22:00)' and id '47558436624' was updated to 'ENABLED\. 
+2017-10-03 17:07:05
+Ad group with name '[124] ????_Il Patio (11:00 ? 22:00)' and id '23315809610' was updated to 'PAUSED\. 
+2017-10-03 17:07:06
+Ad group with name '[510] ????_Pizza Go Sushi (11:00 - 23:00)' and id '23333673770' was updated to 'PAUSED\. 
+2017-10-03 17:07:07
+Ad group with name '[357] ????_O Sushi & Pizza (24h)' and id '23333039570' was updated to 'PAUSED\. 
+2017-10-03 17:07:07
+Ad group with name '[208] Govinda's (12:00 - 19:00)' and id '23320355090' was updated to 'ENABLED\. 
+2017-10-03 17:07:08
+Ad group with name '[516] ????_Submarine (10:00 - 21:00)' and id '23333659730' was updated to 'PAUSED\. 
+2017-10-03 17:07:09
+Ad group with name '[167] ?????????? ???????? - ? ????????? (10:00 ? 22:00)' and id '23316558770' was updated to 'PAUSED\. 
+2017-10-03 17:07:10
+Ad group with name '[657] Sushi store (12:00 - 00:00)' and id '50292874211' was updated to 'ENABLED\. 
+2017-10-03 17:07:11
+Ad group with name '[601] Esentai Gourmet (09:00- 21:00)' and id '42352812448' was updated to 'ENABLED\. 
+2017-10-03 17:07:11
+Ad group with name '[680] Beerhoff (12:00 - 02:00)' and id '42082428403' was updated to 'ENABLED\. 
+2017-10-03 18:45:10
+Ad group with name '[23] Stop_Red Dragon (11:00 ? 23:00)' and id '23304670970' was updated to 'PAUSED\. 
+2017-10-03 18:45:11
+Ad group with name '[460] Lucky Donuts (09:00 - 18:00)' and id '23342383850' was updated to 'PAUSED\. 
+2017-10-03 18:45:12
+Ad group with name '[79] Asian BBQ (24h)' and id '26124766010' was updated to 'ENABLED\. 
+2017-10-03 18:45:13
+Ad group with name '[25] Ginger Sushi ?????? (09:00 ? 21:45)' and id '23304834530' was updated to 'PAUSED\. 
+2017-10-03 18:45:13
+Ad group with name '[81] ?????????? (12:00 - 18:00)' and id '25572340610' was updated to 'PAUSED\. 
+2017-10-03 18:45:14
+Ad group with name '[936] Yum-Yum (09:30 - 2:30)' and id '46532493563' was updated to 'PAUSED\. 
+2017-10-03 20:27:20
+Ad group with name '[755] ???????' and id '46031276843' was updated to 'PAUSED\. 
+2017-10-03 20:27:21
+Ad group with name '[755] remarketing / without apps' and id '49228894227' was updated to 'PAUSED\. 
+2017-10-03 20:27:22
+Ad group with name '[417] ??? ??????? (10:00 - 20:00)' and id '23483026010' was updated to 'PAUSED\. 
+2017-10-03 20:27:23
+Ad group with name '[755] ??????? ?? "Buyers 540 days"' and id '48032041898' was updated to 'PAUSED\. 
+2017-10-03 20:27:23
+Ad group with name '[567] Rocketchefs (08:00 - 19:00)' and id '26463098690' was updated to 'PAUSED\. 
+2017-10-03 20:27:24
+Ad group with name '[755] KFC ????????? (11:00 - 23:30)' and id '44066191679' was updated to 'PAUSED\. 
+2017-10-03 20:27:25
+Ad group with name '[129] ???? ?????' and id '46528412876' was updated to 'PAUSED\. 
+2017-10-03 20:27:26
+Ad group with name '[388] ????? ???????? ???' and id '49136859591' was updated to 'PAUSED\. 
+2017-10-03 20:27:27
+Ad group with name '[359] CHEESY ?????? (09:00 - 19:00)' and id '23333044250' was updated to 'PAUSED\. 
+2017-10-03 20:27:27
+Ad group with name '[755] remarketing / without games' and id '49138867609' was updated to 'PAUSED\. 
+2017-10-03 20:27:28
+Ad group with name '[539] ???? Samal (08:00 - 20:00)' and id '24605650850' was updated to 'PAUSED\. 
+2017-10-03 20:27:29
+Ad group with name '[129] KFC ?????? (11:00 ? 22:30)' and id '47930138098' was updated to 'PAUSED\. 
+2017-10-03 20:27:30
+Ad group with name '[743] V????? (09:00 - 19:00)' and id '44991430979' was updated to 'PAUSED\. 
+2017-10-03 20:27:31
+Ad group with name '[755] ???? ?????' and id '50165753201' was updated to 'PAUSED\. 
+2017-10-03 20:27:31
+Ad group with name '[456] Gelato Dolce Italia (09:00 - 19:00)' and id '23342385050' was updated to 'PAUSED\. 
+2017-10-03 20:27:32
+Ad group with name '[129] ???????? ?????' and id '46148903733' was updated to 'PAUSED\. 
+2017-10-03 20:27:33
+Ad group with name '[755] Popular Sites + Demogr #2' and id '46254413517' was updated to 'PAUSED\. 
+2017-10-03 20:27:34
+Ad group with name '[755] ????? ???????? ???' and id '46031005603' was updated to 'PAUSED\. 
+2017-10-03 20:27:34
+Ad group with name '[764] Hardee`s (11:00 - 22:30)' and id '52047753052' was updated to 'PAUSED\. 
+2017-10-03 20:27:35
+Ad group with name '[565] KCC (10:30 - 19:30)' and id '26462933450' was updated to 'PAUSED\. 
+2017-10-03 20:27:36
+Ad group with name '[388] ???? ?????' and id '44855708525' was updated to 'PAUSED\. 
+2017-10-03 20:27:37
+Ad group with name '[129] ???????' and id '49135689769' was updated to 'PAUSED\. 
+2017-10-03 20:27:37
+Ad group with name '[388] remarketing / without games' and id '52106764531' was updated to 'PAUSED\. 
+2017-10-03 20:27:38
+Ad group with name '[129] remarketing / without apps' and id '45473732140' was updated to 'PAUSED\. 
+2017-10-03 20:27:39
+Ad group with name '[755] ???????? ????????' and id '48113181044' was updated to 'PAUSED\. 
+2017-10-03 20:27:40
+Ad group with name '[388] Popular Sites + Demogr #2' and id '45853514069' was updated to 'PAUSED\. 
+2017-10-03 20:27:41
+Ad group with name '[388] KFC ?????? (11:00 - 23:30)' and id '45546458559' was updated to 'PAUSED\. 
+2017-10-03 20:27:41
+Ad group with name '[756] KFC ???????? (11:00 - 23:30)' and id '53592518148' was updated to 'PAUSED\. 
+2017-10-03 20:27:42
+Ad group with name '[129] Popular Sites + Demogr #1' and id '47240898635' was updated to 'PAUSED\. 
+2017-10-03 20:27:43
+Ad group with name '[129] Popular Sites + Demogr #2' and id '46797949179' was updated to 'PAUSED\. 
+2017-10-03 20:27:44
+Ad group with name '[756] ????? ?????' and id '46618881055' was updated to 'PAUSED\. 
+2017-10-03 20:27:46
+Ad group with name '[755] ????? ?????' and id '50427623670' was updated to 'PAUSED\. 
+2017-10-03 20:27:47
+Ad group with name '[388] ????? ?????' and id '49226804587' was updated to 'PAUSED\. 
+2017-10-03 20:27:47
+Ad group with name '[756] ????? ???????? ???' and id '48113508844' was updated to 'PAUSED\. 
+2017-10-03 20:27:48
+Ad group with name '[388] ??????? ?? "Buyers 540 days"' and id '47465215878' was updated to 'PAUSED\. 
+2017-10-03 20:27:49
+Ad group with name '[129] ???????? ????????' and id '48277101274' was updated to 'PAUSED\. 
+2017-10-03 20:27:50
+Ad group with name '[129] ????? ???????? ???' and id '50162698201' was updated to 'PAUSED\. 
+2017-10-03 20:27:51
+Ad group with name '[388] ???????' and id '51956567648' was updated to 'PAUSED\. 
+2017-10-03 20:27:52
+Ad group with name '[129] ?????? ?????' and id '46747876792' was updated to 'PAUSED\. 
+2017-10-03 20:27:52
+Ad group with name '[388] remarketing / without apps' and id '47464899558' was updated to 'PAUSED\. 
+2017-10-03 20:27:53
+Ad group with name '[216] CHEESY (09:00 - 19:00)' and id '23415461570' was updated to 'PAUSED\. 
+2017-10-03 20:27:54
+Ad group with name '[388] ???????? ?????' and id '44855729005' was updated to 'PAUSED\. 
+2017-10-03 20:27:55
+Ad group with name '[388] ???????? ????????' and id '47465215358' was updated to 'PAUSED\. 
+2017-10-03 20:27:56
+Ad group with name '[770] Hardee`s (11:00 - 22:30)' and id '51964248608' was updated to 'PAUSED\. 
+2017-10-03 20:27:56
+Ad group with name '[129] ??????? ?? "Buyers 540 days"' and id '48941590480' was updated to 'PAUSED\. 
+2017-10-03 20:27:57
+Ad group with name '[129] remarketing / without games' and id '44301102705' was updated to 'PAUSED\. 
+2017-10-03 20:27:58
+Ad group with name '[388] Popular Sites + Demogr #1' and id '48112835204' was updated to 'PAUSED\. 
+2017-10-03 20:27:59
+Ad group with name '[388] ?????? ?????' and id '43164918701' was updated to 'PAUSED\. 
+2017-10-03 20:28:00
+Ad group with name '[755] ?????? ?????' and id '48032745562' was updated to 'PAUSED\. 
+2017-10-03 20:28:00
+Ad group with name '[755] Popular Sites + Demogr #1' and id '53288556424' was updated to 'PAUSED\. 
+2017-10-03 20:28:01
+Ad group with name '[755] Popular Sites + Demogr #3' and id '46031005563' was updated to 'PAUSED\. 
+2017-10-03 20:28:02
+Ad group with name '[388] Popular Sites + Demogr #3' and id '51956512728' was updated to 'PAUSED\. 
+2017-10-03 20:28:03
+Ad group with name '[755] ???????? ?????' and id '49138986449' was updated to 'PAUSED\. 
+2017-10-03 20:28:03
+Ad group with name '[936] Yum-Yum (09:30 - 2:30)' and id '46532493563' was updated to 'ENABLED\. 
+2017-10-03 20:28:04
+Ad group with name '[162] ?????? (12:00 ? 19:30)' and id '23316350330' was updated to 'PAUSED\. 
+2017-10-03 20:28:05
+Ad group with name '[208] Govinda's (12:00 - 19:00)' and id '23320355090' was updated to 'PAUSED\. 
+2017-10-30 20:02:52
+Ad group with name '[283] ????? (10:00 - 20:00)' and id '23326031810' was updated to 'ENABLED\. 
+2017-10-30 20:02:52
+Ad group with name '[388] ???????? ????????' and id '47465215358' was updated to 'ENABLED\. 
+2017-10-30 20:02:53
+Ad group with name '[240] Bon-Ton (10:00 - 22:45)' and id '23325276170' was updated to 'PAUSED\. 
+2017-10-30 20:02:54
+Ad group with name '[755] ???????' and id '46031276843' was updated to 'ENABLED\. 
+2017-10-30 20:02:54
+Ad group with name '[722] ??????. Stop_Vrem_????? - ????? (11:00 ? 21:30)' and id '49380880528' was updated to 'ENABLED\. 
+2017-10-30 20:02:55
+Ad group with name '[459] FrescoFood (10:00 - 23:00)' and id '23484217370' was updated to 'PAUSED\. 
+2017-10-30 20:02:56
+Ad group with name '[755] remarketing / without apps' and id '49228894227' was updated to 'ENABLED\. 
+2017-10-30 20:02:57
+Ad group with name '[658] Stop_Vrem_Tomato (12:00 - 21:00)' and id '44182984311' was updated to 'ENABLED\. 
+2017-10-30 20:02:57
+Ad group with name '[577] Pizza Mia (10:00 - 21:00)' and id '36680366369' was updated to 'ENABLED\. 
+2017-10-30 20:02:58
+Ad group with name '[755] ??????? ?? "Buyers 540 days"' and id '48032041898' was updated to 'ENABLED\. 
+2017-10-30 20:02:59
+Ad group with name '[599] SUSHI'N'ROLL (10:00-22:00)' and id '35626147326' was updated to 'ENABLED\. 
+2017-10-30 20:03:00
+Ad group with name '[755] KFC ????????? (11:00 - 23:30)' and id '44066191679' was updated to 'ENABLED\. 
+2017-10-30 20:03:00
+Ad group with name '[388] ????? ???????? ???' and id '49136859591' was updated to 'ENABLED\. 
+2017-10-30 20:03:01
+Ad group with name '[458] Gippo ??????? (10:00 - 22:00)' and id '23477001050' was updated to 'PAUSED\. 
+2017-10-30 20:03:02
+Ad group with name '[715] Qingdao (11:30- 21:00)' and id '42336105525' was updated to 'PAUSED\. 
+2017-10-30 20:03:03
+Ad group with name '[755] remarketing / without games' and id '49138867609' was updated to 'ENABLED\. 
+2017-10-30 20:03:03
+Ad group with name '[494] ?????? - ?????? (10:00 - 21:00)' and id '23383803530' was updated to 'PAUSED\. 
+2017-10-30 20:03:04
+Ad group with name '[129] KFC ?????? (11:00 ? 22:30)' and id '47930138098' was updated to 'ENABLED\. 
+2017-10-30 20:03:05
+Ad group with name '[25] Ginger Sushi ?????? (09:00 ? 21:45)' and id '23304834530' was updated to 'ENABLED\. 
+2017-10-30 20:03:06
+Ad group with name '[682] Doner Stop Pizza (10:00 - 21:00)' and id '43873647589' was updated to 'PAUSED\. 
+2017-10-30 20:03:07
+Ad group with name '[756] KFC ???????? (11:00 - 23:30)' and id '53592518148' was updated to 'ENABLED\. 
+2017-10-30 20:03:07
+Ad group with name '[679] Oishi sushi (10:00 - 21:00)' and id '47293523514' was updated to 'PAUSED\. 
+2017-10-30 20:03:08
+Ad group with name '[755] ???? ?????' and id '50165753201' was updated to 'ENABLED\. 
+2017-10-30 20:03:09
+Ad group with name '[751] Monti (10:00 - 21:30)' and id '50203794172' was updated to 'ENABLED\. 
+2017-10-30 20:03:10
+Ad group with name '[755] Popular Sites + Demogr #2' and id '46254413517' was updated to 'ENABLED\. 
+2017-10-30 20:03:11
+Ad group with name '[755] ????? ???????? ???' and id '46031005603' was updated to 'ENABLED\. 
+2017-10-30 20:03:11
+Ad group with name '[388] Popular Sites + Demogr #3' and id '51956512728' was updated to 'ENABLED\. 
+2017-10-30 20:03:12
+Ad group with name '[726] Sadu (11:00 - 21:00)' and id '44241802792' was updated to 'PAUSED\. 
+2017-10-30 20:03:13
+Ad group with name '[284] ????? ??????? (10:00 - 20:00)' and id '23327478290' was updated to 'ENABLED\. 
+2017-10-30 20:03:14
+Ad group with name '[764] Hardee`s (11:00 - 22:30)' and id '52047753052' was updated to 'ENABLED\. 
+2017-10-30 20:03:14
+Ad group with name '[105] Street bar & grill ?7 (10:00 ? 22:00)' and id '23315775650' was updated to 'PAUSED\. 
+2017-10-30 20:03:15
+Ad group with name '[683] Pizza Royal (10:00 - 21:00)' and id '44528505116' was updated to 'PAUSED\. 
+2017-10-30 20:03:16
+Ad group with name '[671] Glen pub (11:00-21:30)' and id '50558633188' was updated to 'ENABLED\. 
+2017-10-30 20:03:16
+Ad group with name '[388] ???? ?????' and id '44855708525' was updated to 'ENABLED\. 
+2017-10-30 20:03:17
+Ad group with name '[388] remarketing / without games' and id '52106764531' was updated to 'ENABLED\. 
+2017-10-30 20:03:18
+Ad group with name '[129] remarketing / without apps' and id '45473732140' was updated to 'ENABLED\. 
+2017-10-30 20:03:19
+Ad group with name '[755] ???????? ????????' and id '48113181044' was updated to 'ENABLED\. 
+2017-10-30 20:03:20
+Ad group with name '[270] Fishbox (10:00 - 21:00)' and id '23325623210' was updated to 'ENABLED\. 
+2017-10-30 20:03:20
+Ad group with name '[129] ???????? ?????' and id '46148903733' was updated to 'ENABLED\. 
+2017-10-30 20:03:21
+Ad group with name '[536] Quick Pizza (10:00 - 22:00)' and id '23428462130' was updated to 'ENABLED\. 
+2017-10-30 20:03:22
+Ad group with name '[675] Sadu_restoran (11:00 - 21:00)' and id '43001332765' was updated to 'PAUSED\. 
+2017-10-30 20:03:22
+Ad group with name '[388] Popular Sites + Demogr #2' and id '45853514069' was updated to 'ENABLED\. 
+2017-10-30 20:03:23
+Ad group with name '[388] KFC ?????? (11:00 - 23:30)' and id '45546458559' was updated to 'ENABLED\. 
+2017-10-30 20:03:24
+Ad group with name '[642] Versailles (10:00 - 21:00)' and id '43045258044' was updated to 'ENABLED\. 
+2017-10-30 20:03:25
+Ad group with name '[388] ??????? ?? "Buyers 540 days"' and id '47465215878' was updated to 'ENABLED\. 
+2017-10-30 20:03:25
+Ad group with name '[755] ????? ?????' and id '50427623670' was updated to 'ENABLED\. 
+2017-10-30 20:03:26
+Ad group with name '[388] ????? ?????' and id '49226804587' was updated to 'ENABLED\. 
+2017-10-30 20:03:27
+Ad group with name '[964] ?? ?????????? (11:00 - 19:00)' and id '49733233882' was updated to 'PAUSED\. 
+2017-10-30 20:03:28
+Ad group with name '[740] ???? (12:00 ? 21:00)' and id '42634902925' was updated to 'PAUSED\. 
+2017-10-30 20:03:28
+Ad group with name '[649] Bkitzer (10:00 - 21:30)' and id '46890432692' was updated to 'PAUSED\. 
+2017-10-30 20:03:29
+Ad group with name '[714] Rustica (12:00-21:00)' and id '45504282858' was updated to 'PAUSED\. 
+2017-10-30 20:03:30
+Ad group with name '[686] Koonjoot (09:00 - 21:00)' and id '47289202034' was updated to 'PAUSED\. 
+2017-10-30 20:03:31
+Ad group with name '[712] Z????? (00:00-00:00)' and id '47053817907' was updated to 'ENABLED\. 
+2017-10-30 20:03:31
+Ad group with name '[495] Night Star (11:00 - 23:00)' and id '23336898170' was updated to 'ENABLED\. 
+2017-10-30 20:03:32
+Ad group with name '[724] StarFood (11:00 - 21:30)' and id '50679807104' was updated to 'PAUSED\. 
+2017-10-30 20:03:33
+Ad group with name '[720] ?????? (11:00 - 01:00)' and id '39488048850' was updated to 'PAUSED\. 
+2017-10-30 20:03:34
+Ad group with name '[388] ???????' and id '51956567648' was updated to 'ENABLED\. 
+2017-10-30 20:03:35
+Ad group with name '[166] ? ????????? - ???????? ????? (10:00 ? 22:00)' and id '23316553250' was updated to 'ENABLED\. 
+2017-10-30 20:03:35
+Ad group with name '[616] Palau (10:00 - 22:00)' and id '33651527930' was updated to 'ENABLED\. 
+2017-10-30 20:03:36
+Ad group with name '[745] ?????? (11:00 - 22:00)' and id '44460534717' was updated to 'PAUSED\. 
+2017-10-30 20:03:37
+Ad group with name '[388] remarketing / without apps' and id '47464899558' was updated to 'ENABLED\. 
+2017-10-30 20:03:37
+Ad group with name '[315] Copacabana (11:00 - 00:30)' and id '24605833130' was updated to 'PAUSED\. 
+2017-10-30 20:03:39
+Ad group with name '[681] Momento (10:00 - 21:00)' and id '50089124371' was updated to 'PAUSED\. 
+2017-10-30 20:03:40
+Ad group with name '[388] ???????? ?????' and id '44855729005' was updated to 'ENABLED\. 
+2017-10-30 20:03:40
+Ad group with name '[407] 2 ?????? (10:00 - 23:00)' and id '23394260330' was updated to 'PAUSED\. 
+2017-10-30 20:03:41
+Ad group with name '[719] ????? sushi (11:00 - 01:00)' and id '42950873414' was updated to 'PAUSED\. 
+2017-10-30 20:03:42
+Ad group with name '[735] Love Sushi (11:00 - 03:00)' and id '48727597884' was updated to 'ENABLED\. 
+2017-10-30 20:03:43
+Ad group with name '[711] ?????? ??????? (10:00-21:00)' and id '43433190945' was updated to 'PAUSED\. 
+2017-10-30 20:03:43
+Ad group with name '[574] Rustica (11:00-21:00)' and id '40442182024' was updated to 'ENABLED\. 
+2017-10-30 20:03:44
+Ad group with name '[50] ??????? (11:00 ? 23:00)' and id '23309149730' was updated to 'ENABLED\. 
+2017-10-30 20:03:45
+Ad group with name '[389] Mckaeen&Chicago Dogs (10:00 - 22:00)' and id '25572094730' was updated to 'ENABLED\. 
+2017-10-30 20:03:46
+Ad group with name '[770] Hardee`s (11:00 - 22:30)' and id '51964248608' was updated to 'ENABLED\. 
+2017-10-30 20:03:46
+Ad group with name '[129] remarketing / without games' and id '44301102705' was updated to 'ENABLED\. 
+2017-10-30 20:03:47
+Ad group with name '[388] Popular Sites + Demogr #1' and id '48112835204' was updated to 'ENABLED\. 
+2017-10-30 20:03:48
+Ad group with name '[33] ? ????????? (10:00 ? 22:00)' and id '23308148090' was updated to 'ENABLED\. 
+2017-10-30 20:03:49
+Ad group with name '[388] ?????? ?????' and id '43164918701' was updated to 'ENABLED\. 
+2017-10-30 20:03:49
+Ad group with name '[755] ?????? ?????' and id '48032745562' was updated to 'ENABLED\. 
+2017-10-30 20:03:50
+Ad group with name '[755] Popular Sites + Demogr #1' and id '53288556424' was updated to 'ENABLED\. 
+2017-10-30 20:03:51
+Ad group with name '[755] Popular Sites + Demogr #3' and id '46031005563' was updated to 'ENABLED\. 
+2017-10-30 20:03:51
+Ad group with name '[670] Coffee&Toffee (10:00 ? 21:30)' and id '43169382374' was updated to 'ENABLED\. 
+2017-10-30 20:03:52
+Ad group with name '[619] ???????? (10:00 - 21:00)' and id '39966006197' was updated to 'ENABLED\. 
+2017-10-30 20:03:53
+Ad group with name '[718] Gourmet Burger Station (12:00- 21:00)' and id '43512453483' was updated to 'PAUSED\. 
+2017-10-30 20:03:54
+Ad group with name '[755] ???????? ?????' and id '49138986449' was updated to 'ENABLED\. 
+2017-10-30 20:03:54
+Ad group with name '[430] Nori (11:00 - 00:00)' and id '23503586810' was updated to 'PAUSED\. 
+2017-10-30 20:03:55
+Ad group with name '[441] Vorona-Verona (09:00 - 20:00)' and id '23342450330' was updated to 'ENABLED\. 
+2017-10-30 20:03:56
+Ad group with name '[760] Bangkok (11:30 ? 21:30)' and id '46632210123' was updated to 'PAUSED\. 
+2017-10-30 20:03:56
+Ad group with name '[167] ?????????? ???????? - ? ????????? (10:00 ? 22:00)' and id '23316558770' was updated to 'ENABLED\. 
+2017-10-31 10:13:43
+Ad group with name '[283] ????? (10:00 - 20:00)' and id '23326031810' was updated to 'PAUSED\. 
+2017-10-31 10:13:44
+Ad group with name '[388] ???????? ????????' and id '47465215358' was updated to 'PAUSED\. 
+2017-10-31 10:13:44
+Ad group with name '[755] ???????' and id '46031276843' was updated to 'PAUSED\. 
+2017-10-31 10:13:45
+Ad group with name '[722] ??????. Stop_Vrem_????? - ????? (11:00 ? 21:30)' and id '49380880528' was updated to 'PAUSED\. 
+2017-10-31 10:13:46
+Ad group with name '[755] remarketing / without apps' and id '49228894227' was updated to 'PAUSED\. 
+2017-10-31 10:13:47
+Ad group with name '[713] XXL Food (11:00 - 23:00)' and id '44345300156' was updated to 'PAUSED\. 
+2017-10-31 10:13:47
+Ad group with name '[658] Stop_Vrem_Tomato (12:00 - 21:00)' and id '44182984311' was updated to 'PAUSED\. 
+2017-10-31 10:13:48
+Ad group with name '[486] Bolognese (12:00 - 22:40)' and id '23384854730' was updated to 'PAUSED\. 
+2017-10-31 10:13:49
+Ad group with name '[417] ??? ??????? (10:00 - 20:00)' and id '23483026010' was updated to 'ENABLED\. 
+2017-10-31 10:13:50
+Ad group with name '[577] Pizza Mia (10:00 - 21:00)' and id '36680366369' was updated to 'PAUSED\. 
+2017-10-31 10:13:51
+Ad group with name '[460] Lucky Donuts (09:00 - 18:00)' and id '23342383850' was updated to 'ENABLED\. 
+2017-10-31 10:13:51
+Ad group with name '[755] ??????? ?? "Buyers 540 days"' and id '48032041898' was updated to 'PAUSED\. 
+2017-10-31 10:13:52
+Ad group with name '[358] Red Dragon Asian fast food (11:00 - 23:00)' and id '23333042570' was updated to 'PAUSED\. 
+2017-10-31 10:13:53
+Ad group with name '[599] SUSHI'N'ROLL (10:00-22:00)' and id '35626147326' was updated to 'PAUSED\. 
+2017-10-31 10:13:54
+Ad group with name '[549] ????? ?????? (11:00 - 00:00)' and id '24992291570' was updated to 'PAUSED\. 
+2017-10-31 10:13:54
+Ad group with name '[554] ????? (12:00 - 02:00)' and id '24982795250' was updated to 'PAUSED\. 
+2017-10-31 10:13:55
+Ad group with name '[567] Rocketchefs (08:00 - 19:00)' and id '26463098690' was updated to 'ENABLED\. 
+2017-10-31 10:13:56
+Ad group with name '[305] Petrushka (11:00 - 01:00)' and id '23416774610' was updated to 'PAUSED\. 
+2017-10-31 10:13:57
+Ad group with name '[755] KFC ????????? (11:00 - 23:30)' and id '44066191679' was updated to 'PAUSED\. 
+2017-10-31 10:13:57
+Ad group with name '[323] ????? ???? ???????? (10:30 - 22:00)' and id '23479384730' was updated to 'PAUSED\. 
+2017-10-31 10:13:58
+Ad group with name '[388] ????? ???????? ???' and id '49136859591' was updated to 'PAUSED\. 
+2017-10-31 10:13:59
+Ad group with name '[359] CHEESY ?????? (09:00 - 19:00)' and id '23333044250' was updated to 'ENABLED\. 
+2017-10-31 10:13:59
+Ad group with name '[458] Gippo ??????? (10:00 - 22:00)' and id '23477001050' was updated to 'ENABLED\. 
+2017-10-31 10:14:00
+Ad group with name '[755] remarketing / without games' and id '49138867609' was updated to 'PAUSED\. 
+2017-10-31 10:14:01
+Ad group with name '[628] Wokker (11:00 - 23:00)' and id '37128371462' was updated to 'PAUSED\. 
+2017-10-31 10:14:02
+Ad group with name '[61] ????? ????_?????? (11:00 - 22:00)' and id '23416694330' was updated to 'PAUSED\. 
+2017-10-31 10:14:02
+Ad group with name '[666] Hot Dogs Corner (11:00 ? 21:30)' and id '46101486604' was updated to 'PAUSED\. 
+2017-10-31 10:14:03
+Ad group with name '[624] ????? (11:00 - 22:00)' and id '40179821736' was updated to 'PAUSED\. 
+2017-10-31 10:14:04
+Ad group with name '[644] ??????? ????? (11:00 - 00:45)' and id '42974064658' was updated to 'PAUSED\. 
+2017-10-31 10:14:05
+Ad group with name '[129] KFC ?????? (11:00 ? 22:30)' and id '47930138098' was updated to 'PAUSED\. 
+2017-10-31 10:14:05
+Ad group with name '[663] ????????? ????? (11:00 - 23:00)' and id '45772589887' was updated to 'PAUSED\. 
+2017-10-31 10:14:06
+Ad group with name '[730] GoodFood (11:00-1:00)' and id '44144763832' was updated to 'PAUSED\. 
+2017-10-31 10:14:07
+Ad group with name '[524] ???? ? ????????? (12:00 - 23:30)' and id '23442352970' was updated to 'PAUSED\. 
+2017-10-31 10:14:08
+Ad group with name '[403] ?????-????? (12:00 - 23:30)' and id '23442284690' was updated to 'PAUSED\. 
+2017-10-31 10:14:08
+Ad group with name '[756] KFC ???????? (11:00 - 23:30)' and id '53592518148' was updated to 'PAUSED\. 
+2017-10-31 10:14:09
+Ad group with name '[755] ???? ?????' and id '50165753201' was updated to 'PAUSED\. 
+2017-10-31 10:14:10
+Ad group with name '[456] Gelato Dolce Italia (09:00 - 19:00)' and id '23342385050' was updated to 'ENABLED\. 
+2017-10-31 10:14:10
+Ad group with name '[751] Monti (10:00 - 21:30)' and id '50203794172' was updated to 'PAUSED\. 
+2017-10-31 10:14:11
+Ad group with name '[746] LabFood (11:00 - 02:00)' and id '43220336382' was updated to 'PAUSED\. 
+2017-10-31 10:14:12
+Ad group with name '[217] Express Panda ?????? (11:00 - 02:00)' and id '23415343370' was updated to 'PAUSED\. 
+2017-10-31 10:14:13
+Ad group with name '[583] Masisso (10:00 - 21:00)' and id '34458428583' was updated to 'PAUSED\. 
+2017-10-31 10:14:14
+Ad group with name '[631] Mealdoc (10:00 - 22:00)' and id '39904572479' was updated to 'ENABLED\. 
+2017-10-31 10:14:14
+Ad group with name '[755] Popular Sites + Demogr #2' and id '46254413517' was updated to 'PAUSED\. 
+2017-10-31 10:14:15
+Ad group with name '[431] Fusion (12:00 - 23:30)' and id '23497969610' was updated to 'PAUSED\. 
+2017-10-31 10:14:16
+Ad group with name '[755] ????? ???????? ???' and id '46031005603' was updated to 'PAUSED\. 
+2017-10-31 10:14:17
+Ad group with name '[388] Popular Sites + Demogr #3' and id '51956512728' was updated to 'PAUSED\. 
+2017-10-31 10:14:17
+Ad group with name '[602] ????????? (11:00-23:00)' and id '48139762711' was updated to 'PAUSED\. 
+2017-10-31 10:14:18
+Ad group with name '[284] ????? ??????? (10:00 - 20:00)' and id '23327478290' was updated to 'PAUSED\. 
+2017-10-31 10:14:19
+Ad group with name '[399] Mozzarella (12:00 - 23:30)' and id '23442359690' was updated to 'PAUSED\. 
+2017-10-31 10:14:20
+Ad group with name '[764] Hardee`s (11:00 - 22:30)' and id '52047753052' was updated to 'PAUSED\. 
+2017-10-31 10:14:20
+Ad group with name '[773] Best Burgers Quality (11:00 - 22:30)' and id '47261709552' was updated to 'PAUSED\. 
+2017-10-31 10:14:21
+Ad group with name '[671] Glen pub (11:00-21:30)' and id '50558633188' was updated to 'PAUSED\. 
+2017-10-31 10:14:22
+Ad group with name '[388] ???? ?????' and id '44855708525' was updated to 'PAUSED\. 
+2017-10-31 10:14:22
+Ad group with name '[401] ???-????? (12:00 - 23:30)' and id '23444278370' was updated to 'PAUSED\. 
+2017-10-31 10:14:23
+Ad group with name '[388] remarketing / without games' and id '52106764531' was updated to 'PAUSED\. 
+2017-10-31 10:14:24
+Ad group with name '[129] remarketing / without apps' and id '45473732140' was updated to 'PAUSED\. 
+2017-10-31 10:14:25
+Ad group with name '[755] ???????? ????????' and id '48113181044' was updated to 'PAUSED\. 
+2017-10-31 10:14:25
+Ad group with name '[677] XXL Food (11:00 - 23:00)' and id '44491762775' was updated to 'PAUSED\. 
+2017-10-31 10:14:26
+Ad group with name '[731] ????????? (11:00 - 23:00)' and id '47052220714' was updated to 'PAUSED\. 
+2017-10-31 10:14:27
+Ad group with name '[721] DAYAKO FOOD (11:00 - 22:30)' and id '43666569094' was updated to 'PAUSED\. 
+2017-10-31 10:14:28
+Ad group with name '[668] Abba Sushi (11:00 - 00:00)' and id '42103184142' was updated to 'PAUSED\. 
+2017-10-31 10:14:28
+Ad group with name '[436] Tokyo (11:00 - 22:30)' and id '23442267770' was updated to 'PAUSED\. 
+2017-10-31 10:14:29
+Ad group with name '[129] ???????? ?????' and id '46148903733' was updated to 'PAUSED\. 
+2017-10-31 10:14:30
+Ad group with name '[593] ??????? (9:00 - 21:00)' and id '38626002918' was updated to 'PAUSED\. 
+2017-10-31 10:14:31
+Ad group with name '[388] Popular Sites + Demogr #2' and id '45853514069' was updated to 'PAUSED\. 
+2017-10-31 10:14:31
+Ad group with name '[266] Wokpanda_?????? (11:00 - 02:00)' and id '23415192890' was updated to 'PAUSED\. 
+2017-10-31 10:14:32
+Ad group with name '[388] KFC ?????? (11:00 - 23:30)' and id '45546458559' was updated to 'PAUSED\. 
+2017-10-31 10:14:33
+Ad group with name '[642] Versailles (10:00 - 21:00)' and id '43045258044' was updated to 'PAUSED\. 
+2017-10-31 10:14:33
+Ad group with name '[673] Arigato (11:00 - 23:00)' and id '41725117163' was updated to 'PAUSED\. 
+2017-10-31 10:14:34
+Ad group with name '[388] ??????? ?? "Buyers 540 days"' and id '47465215878' was updated to 'PAUSED\. 
+2017-10-31 10:14:35
+Ad group with name '[31] ????? ????? ? ??????? (11:00 ? 22:30)' and id '23307734090' was updated to 'PAUSED\. 
+2017-10-31 10:14:36
+Ad group with name '[704] ???? ?????? (11:00 - 23:00)' and id '43719063585' was updated to 'PAUSED\. 
+2017-10-31 10:14:36
+Ad group with name '[695] VIP Sushi (10:00 - 00:00)' and id '49394896208' was updated to 'PAUSED\. 
+2017-10-31 10:14:37
+Ad group with name '[755] ????? ?????' and id '50427623670' was updated to 'PAUSED\. 
+2017-10-31 10:14:38
+Ad group with name '[388] ????? ?????' and id '49226804587' was updated to 'PAUSED\. 
+2017-10-31 10:14:38
+Ad group with name '[717] Dolce cafe (12:00 - 01:00)' and id '45717477484' was updated to 'PAUSED\. 
+2017-10-31 10:14:39
+Ad group with name '[43] La Tartine (09:00 - 19:00)' and id '26116635890' was updated to 'PAUSED\. 
+2017-10-31 10:14:40
+Ad group with name '[239] Donalds (10:00 - 22:00)' and id '23325150770' was updated to 'PAUSED\. 
+2017-10-31 10:14:41
+Ad group with name '[297] ??? ????????? (11:00 - 22:00)' and id '23328316370' was updated to 'PAUSED\. 
+2017-10-31 10:14:42
+Ad group with name '[551] Geisha sushi (11:00 - 01:00)' and id '24992102570' was updated to 'PAUSED\. 
+2017-10-31 10:14:42
+Ad group with name '[610] Turandot (12:00 - 23:00)' and id '36677871265' was updated to 'PAUSED\. 
+2017-10-31 10:14:43
+Ad group with name '[495] Night Star (11:00 - 23:00)' and id '23336898170' was updated to 'PAUSED\. 
+2017-10-31 10:14:44
+Ad group with name '[350] Sushiwok (11:00 - 00:00)' and id '23417217290' was updated to 'PAUSED\. 
+2017-10-31 10:14:45
+Ad group with name '[555] ????? (12:00 - 02:00)' and id '25006223210' was updated to 'PAUSED\. 
+2017-10-31 10:14:45
+Ad group with name '[652] The ???? (12:00 - 00:00)' and id '44062281800' was updated to 'PAUSED\. 
+2017-10-31 10:14:46
+Ad group with name '[498] ????????? (10:00 - 22:30)' and id '23334147290' was updated to 'PAUSED\. 
+2017-10-31 10:14:47
+Ad group with name '[322] ??????? (10:30 - 22:00)' and id '23482362650' was updated to 'PAUSED\. 
+2017-10-31 10:14:48
+Ad group with name '[388] ???????' and id '51956567648' was updated to 'PAUSED\. 
+2017-10-31 10:14:48
+Ad group with name '[166] ? ????????? - ???????? ????? (10:00 ? 22:00)' and id '23316553250' was updated to 'PAUSED\. 
+2017-10-31 10:14:49
+Ad group with name '[616] Palau (10:00 - 22:00)' and id '33651527930' was updated to 'PAUSED\. 
+2017-10-31 10:14:50
+Ad group with name '[771] ????????? (12:00 - 22:30)' and id '47343148536' was updated to 'PAUSED\. 
+2017-10-31 10:14:51
+Ad group with name '[397] Wok Wok (12:00 - 23:30)' and id '23438698730' was updated to 'PAUSED\. 
+2017-10-31 10:14:52
+Ad group with name '[596] Atlas Wok (11:00 - 01:00)' and id '38824256383' was updated to 'PAUSED\. 
+2017-10-31 10:14:52
+Ad group with name '[388] remarketing / without apps' and id '47464899558' was updated to 'PAUSED\. 
+2017-10-31 10:14:53
+Ad group with name '[556] Anor (11:00 - 00:00)' and id '25272582530' was updated to 'PAUSED\. 
+2017-10-31 10:14:54
+Ad group with name '[216] CHEESY (09:00 - 19:00)' and id '23415461570' was updated to 'ENABLED\. 
+2017-10-31 10:14:55
+Ad group with name '[678] Garden Food (11:00 - 01:00)' and id '43748357018' was updated to 'PAUSED\. 
+2017-10-31 10:14:55
+Ad group with name '[362] Turandot (11:00 - 23:00)' and id '23333045450' was updated to 'PAUSED\. 
+2017-10-31 10:14:56
+Ad group with name '[548] Chicken ?? (11:00 - 22:00)' and id '24995351450' was updated to 'PAUSED\. 
+2017-10-31 10:14:57
+Ad group with name '[388] ???????? ?????' and id '44855729005' was updated to 'PAUSED\. 
+2017-10-31 10:14:58
+Ad group with name '[215] 2 Bro's Bakery (16:30 - 02:00)' and id '23416592330' was updated to 'PAUSED\. 
+2017-10-31 10:14:58
+Ad group with name '[32] ???? ?????? - ???? ?????? (11:00 ? 01:30)' and id '23307741290' was updated to 'PAUSED\. 
+2017-10-31 10:14:59
+Ad group with name '[757] ?? ??? (12:00 - 05:00)' and id '43851868257' was updated to 'PAUSED\. 
+2017-10-31 10:15:00
+Ad group with name '[643] NexxioPizza (11:00 - 00:00)' and id '45534929195' was updated to 'PAUSED\. 
+2017-10-31 10:15:01
+Ad group with name '[520] Rakudza (11:00 - 01:30)' and id '23333639810' was updated to 'PAUSED\. 
+2017-10-31 10:15:01
+Ad group with name '[772] Burrito Go (11:00 - 21:30)' and id '55425869508' was updated to 'PAUSED\. 
+2017-10-31 10:15:02
+Ad group with name '[698] DosFood Express (00:00 - 00:00)' and id '43065274046' was updated to 'PAUSED\. 
+2017-10-31 10:15:03
+Ad group with name '[398] ????? (12:00 - 23:30)' and id '45453736275' was updated to 'PAUSED\. 
+2017-10-31 10:15:04
+Ad group with name '[735] Love Sushi (11:00 - 03:00)' and id '48727597884' was updated to 'PAUSED\. 
+2017-10-31 10:15:04
+Ad group with name '[574] Rustica (11:00-21:00)' and id '40442182024' was updated to 'PAUSED\. 
+2017-10-31 10:15:05
+Ad group with name '[50] ??????? (11:00 ? 23:00)' and id '23309149730' was updated to 'PAUSED\. 
+2017-10-31 10:15:06
+Ad group with name '[126] Shipudim (12:00 ? 22:00)' and id '23315814890' was updated to 'PAUSED\. 
+2017-10-31 10:15:07
+Ad group with name '[625] ??? ??????? (11:00 - 23:30)' and id '42505206840' was updated to 'PAUSED\. 
+2017-10-31 10:15:08
+Ad group with name '[473] ??????? ?????? ?????? (11:00 - 23:00)' and id '23342372330' was updated to 'PAUSED\. 
+2017-10-31 10:15:08
+Ad group with name '[770] Hardee`s (11:00 - 22:30)' and id '51964248608' was updated to 'PAUSED\. 
+2017-10-31 10:15:09
+Ad group with name '[129] remarketing / without games' and id '44301102705' was updated to 'PAUSED\. 
+2017-10-31 10:15:10
+Ad group with name '[388] Popular Sites + Demogr #1' and id '48112835204' was updated to 'PAUSED\. 
+2017-10-31 10:15:10
+Ad group with name '[488] 2Bro?s delivery (12:00 - 03:00)' and id '23384740130' was updated to 'PAUSED\. 
+2017-10-31 10:15:11
+Ad group with name '[33] ? ????????? (10:00 ? 22:00)' and id '23308148090' was updated to 'PAUSED\. 
+2017-10-31 10:15:12
+Ad group with name '[388] ?????? ?????' and id '43164918701' was updated to 'PAUSED\. 
+2017-10-31 10:15:13
+Ad group with name '[755] ?????? ?????' and id '48032745562' was updated to 'PAUSED\. 
+2017-10-31 10:15:13
+Ad group with name '[755] Popular Sites + Demogr #1' and id '53288556424' was updated to 'PAUSED\. 
+2017-10-31 10:15:14
+Ad group with name '[755] Popular Sites + Demogr #3' and id '46031005563' was updated to 'PAUSED\. 
+2017-10-31 10:15:15
+Ad group with name '[611] Sushigam (11:00 - 01:00)' and id '48473344067' was updated to 'PAUSED\. 
+2017-10-31 10:15:16
+Ad group with name '[619] ???????? (10:00 - 21:00)' and id '39966006197' was updated to 'PAUSED\. 
+2017-10-31 10:15:16
+Ad group with name '[307] ?????????? (11:00 - 00:00)' and id '23416948250' was updated to 'PAUSED\. 
+2017-10-31 10:15:17
+Ad group with name '[755] ???????? ?????' and id '49138986449' was updated to 'PAUSED\. 
+2017-10-31 10:15:18
+Ad group with name '[763] Absolute (13:00 - 02:00)' and id '49082195247' was updated to 'PAUSED\. 
+2017-10-31 10:15:19
+Ad group with name '[603] ??? (11:00 - 21:00)' and id '41973262488' was updated to 'PAUSED\. 
+2017-10-31 10:15:19
+Ad group with name '[533] ??? FOOD (11:00 - 22:00)' and id '23336897330' was updated to 'PAUSED\. 
+2017-10-31 10:15:20
+Ad group with name '[645] Sakura sushi (11:00 - 01:30)' and id '44099310449' was updated to 'PAUSED\. 
+2017-10-31 10:15:21
+Ad group with name '[592] Food Cultura (08:00 - 17:00)' and id '35334628025' was updated to 'ENABLED\. 
+2017-10-31 10:15:21
+Ad group with name '[558] Entrecote (10:00 - 22:00)' and id '25273179530' was updated to 'PAUSED\. 
+2017-10-31 10:15:22
+Ad group with name '[639] ??????? (11:00 - 22:00)' and id '47558436624' was updated to 'PAUSED\. 
+2017-10-31 10:15:23
+Ad group with name '[167] ?????????? ???????? - ? ????????? (10:00 ? 22:00)' and id '23316558770' was updated to 'PAUSED\. 
+2017-10-31 10:15:24
+Ad group with name '[657] Sushi store (12:00 - 00:00)' and id '50292874211' was updated to 'PAUSED\. 
+2017-10-31 10:15:24
+Ad group with name '[680] Beerhoff (12:00 - 02:00)' and id '42082428403' was updated to 'PAUSED\. 
+2017-11-11 18:51:06
+Ad group with name '[931] ??????????' and id '47881146706' was updated to 'ENABLED\. 
+2017-11-11 18:51:07
+Ad group with name '[866] ?????????' and id '48998238460' was updated to 'ENABLED\. 
+2017-11-11 18:51:07
+Ad group with name '[713] XXL Food (11:00 - 23:00)' and id '44345300156' was updated to 'ENABLED\. 
+2017-11-11 18:51:08
+Ad group with name '[658] Stop_Vrem_Tomato (12:00 - 21:00)' and id '44182984311' was updated to 'ENABLED\. 
+2017-11-11 18:51:09
+Ad group with name '[707] Papa Joe (23:00 - 07:00)' and id '43478410203' was updated to 'ENABLED\. 
+2017-11-11 18:51:10
+Ad group with name '[460] Lucky Donuts (09:00 - 18:00)' and id '23342383850' was updated to 'PAUSED\. 
+2017-11-11 18:51:11
+Ad group with name '[358] Red Dragon Asian fast food (11:00 - 23:00)' and id '23333042570' was updated to 'ENABLED\. 
+2017-11-11 18:51:12
+Ad group with name '[549] ????? ?????? (11:00 - 00:00)' and id '24992291570' was updated to 'ENABLED\. 
+2017-11-11 18:51:12
+Ad group with name '[554] ????? (12:00 - 02:00)' and id '24982795250' was updated to 'ENABLED\. 
+2017-11-11 18:51:13
+Ad group with name '[567] Rocketchefs (08:00 - 19:00)' and id '26463098690' was updated to 'PAUSED\. 
+2017-11-11 18:51:14
+Ad group with name '[305] Petrushka (11:00 - 01:00)' and id '23416774610' was updated to 'ENABLED\. 
+2017-11-11 18:51:15
+Ad group with name '[755] KFC ????????? (11:00 - 23:30)' and id '44066191679' was updated to 'ENABLED\. 
+2017-11-11 18:51:16
+Ad group with name '[458] Gippo ??????? (10:00 - 22:00)' and id '23477001050' was updated to 'PAUSED\. 
+2017-11-11 18:51:17
+Ad group with name '[715] Qingdao (11:30- 21:00)' and id '42336105525' was updated to 'ENABLED\. 
+2017-11-11 18:51:18
+Ad group with name '[628] Wokker (11:00 - 23:00)' and id '37128371462' was updated to 'ENABLED\. 
+2017-11-11 18:51:19
+Ad group with name '[674] Sushi Astana (10:00 - 00:00)' and id '47269000791' was updated to 'PAUSED\. 
+2017-11-11 18:51:20
+Ad group with name '[666] Hot Dogs Corner (11:00 ? 21:30)' and id '46101486604' was updated to 'ENABLED\. 
+2017-11-11 18:51:20
+Ad group with name '[477] Samurai 5 sushi (10:00 - 01:00)' and id '23385631850' was updated to 'PAUSED\. 
+2017-11-11 18:51:21
+Ad group with name '[644] ??????? ????? (11:00 - 00:45)' and id '42974064658' was updated to 'ENABLED\. 
+2017-11-11 18:51:23
+Ad group with name '[129] KFC ?????? (11:00 ? 22:30)' and id '47930138098' was updated to 'ENABLED\. 
+2017-11-11 18:51:24
+Ad group with name '[205] stop_vrem_???? ???? (11:00 -21:00)' and id '39874137091' was updated to 'ENABLED\. 
+2017-11-11 18:51:24
+Ad group with name '[663] ????????? ????? (11:00 - 23:00)' and id '45772589887' was updated to 'ENABLED\. 
+2017-11-11 18:51:25
+Ad group with name '[730] GoodFood (11:00-1:00)' and id '44144763832' was updated to 'ENABLED\. 
+2017-11-11 18:51:27
+Ad group with name '[25] Ginger Sushi ?????? (09:00 ? 21:45)' and id '23304834530' was updated to 'PAUSED\. 
+2017-11-11 18:51:27
+Ad group with name '[682] Doner Stop Pizza (10:00 - 21:00)' and id '43873647589' was updated to 'ENABLED\. 
+2017-11-11 18:51:28
+Ad group with name '[403] ?????-????? (12:00 - 23:30)' and id '23442284690' was updated to 'ENABLED\. 
+2017-11-11 18:51:29
+Ad group with name '[756] KFC ???????? (11:00 - 23:30)' and id '53592518148' was updated to 'ENABLED\. 
+2017-11-11 18:51:30
+Ad group with name '[931] ??????????' and id '47881147386' was updated to 'ENABLED\. 
+2017-11-11 18:51:31
+Ad group with name '[679] Oishi sushi (10:00 - 21:00)' and id '47293523514' was updated to 'ENABLED\. 
+2017-11-11 18:51:32
+Ad group with name '[931] ??????????' and id '47881147146' was updated to 'ENABLED\. 
+2017-11-11 18:51:33
+Ad group with name '[751] Monti (10:00 - 21:30)' and id '50203794172' was updated to 'ENABLED\. 
+2017-11-11 18:51:34
+Ad group with name '[931] ?????????' and id '47881147106' was updated to 'ENABLED\. 
+2017-11-11 18:51:35
+Ad group with name '[746] LabFood (11:00 - 02:00)' and id '43220336382' was updated to 'ENABLED\. 
+2017-11-11 18:51:35
+Ad group with name '[217] Express Panda ?????? (11:00 - 02:00)' and id '23415343370' was updated to 'ENABLED\. 
+2017-11-11 18:51:36
+Ad group with name '[866] ???????' and id '48998238660' was updated to 'ENABLED\. 
+2017-11-11 18:51:37
+Ad group with name '[431] Fusion (12:00 - 23:30)' and id '23497969610' was updated to 'ENABLED\. 
+2017-11-11 18:51:38
+Ad group with name '[602] ????????? (11:00-23:00)' and id '48139762711' was updated to 'ENABLED\. 
+2017-11-11 18:51:39
+Ad group with name '[399] Mozzarella (12:00 - 23:30)' and id '23442359690' was updated to 'ENABLED\. 
+2017-11-11 18:51:40
+Ad group with name '[764] Hardee`s (11:00 - 22:30)' and id '52047753052' was updated to 'ENABLED\. 
+2017-11-11 18:51:41
+Ad group with name '[773] Best Burgers Quality (11:00 - 22:30)' and id '47261709552' was updated to 'ENABLED\. 
+2017-11-11 18:51:42
+Ad group with name '[683] Pizza Royal (10:00 - 21:00)' and id '44528505116' was updated to 'ENABLED\. 
+2017-11-11 18:51:43
+Ad group with name '[671] Glen pub (11:00-21:30)' and id '50558633188' was updated to 'ENABLED\. 
+2017-11-11 18:51:44
+Ad group with name '[401] ???-????? (12:00 - 23:30)' and id '23444278370' was updated to 'ENABLED\. 
+2017-11-11 18:51:45
+Ad group with name '[953] Balamood burger&pizza (11:00 - 22:30)' and id '45735095982' was updated to 'ENABLED\. 
+2017-11-11 18:51:46
+Ad group with name '[677] XXL Food (11:00 - 23:00)' and id '44491762775' was updated to 'ENABLED\. 
+2017-11-11 18:51:47
+Ad group with name '[931] ?????? ????' and id '47881146866' was updated to 'ENABLED\. 
+2017-11-11 18:51:47
+Ad group with name '[731] ????????? (11:00 - 23:00)' and id '47052220714' was updated to 'ENABLED\. 
+2017-11-11 18:51:48
+Ad group with name '[721] DAYAKO FOOD (11:00 - 22:30)' and id '43666569094' was updated to 'ENABLED\. 
+2017-11-11 18:51:49
+Ad group with name '[668] Abba Sushi (11:00 - 00:00)' and id '42103184142' was updated to 'ENABLED\. 
+2017-11-11 18:51:50
+Ad group with name '[436] Tokyo (11:00 - 22:30)' and id '23442267770' was updated to 'ENABLED\. 
+2017-11-11 18:51:51
+Ad group with name '[955] Fresh 365 (00:00 - 00:00)' and id '44933624341' was updated to 'ENABLED\. 
+2017-11-11 18:51:52
+Ad group with name '[593] ??????? (9:00 - 21:00)' and id '38626002918' was updated to 'ENABLED\. 
+2017-11-11 18:51:53
+Ad group with name '[266] Wokpanda_?????? (11:00 - 02:00)' and id '23415192890' was updated to 'ENABLED\. 
+2017-11-11 18:51:54
+Ad group with name '[388] KFC ?????? (11:00 - 23:30)' and id '45546458559' was updated to 'ENABLED\. 
+2017-11-11 18:51:55
+Ad group with name '[866] ??????' and id '48998238900' was updated to 'ENABLED\. 
+2017-11-11 18:51:56
+Ad group with name '[509] ????????-??????????? (12:00 - 21:30)' and id '23334087890' was updated to 'ENABLED\. 
+2017-11-11 18:51:56
+Ad group with name '[673] Arigato (11:00 - 23:00)' and id '41725117163' was updated to 'ENABLED\. 
+2017-11-11 18:51:57
+Ad group with name '[31] ????? ????? ? ??????? (11:00 ? 22:30)' and id '23307734090' was updated to 'ENABLED\. 
+2017-11-11 18:51:58
+Ad group with name '[704] ???? ?????? (11:00 - 23:00)' and id '43719063585' was updated to 'ENABLED\. 
+2017-11-11 18:51:59
+Ad group with name '[695] VIP Sushi (10:00 - 00:00)' and id '49394896208' was updated to 'ENABLED\. 
+2017-11-11 18:52:00
+Ad group with name '[866] ??? ????' and id '48998238420' was updated to 'ENABLED\. 
+2017-11-11 18:52:01
+Ad group with name '[964] ?? ?????????? (11:00 - 19:00)' and id '49733233882' was updated to 'ENABLED\. 
+2017-11-11 18:52:02
+Ad group with name '[717] Dolce cafe (12:00 - 01:00)' and id '45717477484' was updated to 'ENABLED\. 
+2017-11-11 18:52:03
+Ad group with name '[43] La Tartine (09:00 - 19:00)' and id '26116635890' was updated to 'ENABLED\. 
+2017-11-11 18:52:04
+Ad group with name '[239] Donalds (10:00 - 22:00)' and id '23325150770' was updated to 'ENABLED\. 
+2017-11-11 18:52:04
+Ad group with name '[714] Rustica (12:00-21:00)' and id '45504282858' was updated to 'ENABLED\. 
+2017-11-11 18:52:05
+Ad group with name '[931] ??????' and id '47881147426' was updated to 'ENABLED\. 
+2017-11-11 18:52:06
+Ad group with name '[297] ??? ????????? (11:00 - 22:00)' and id '23328316370' was updated to 'ENABLED\. 
+2017-11-11 18:52:07
+Ad group with name '[931] ???????' and id '47881147186' was updated to 'ENABLED\. 
+2017-11-11 18:52:08
+Ad group with name '[686] Koonjoot (09:00 - 21:00)' and id '47289202034' was updated to 'ENABLED\. 
+2017-11-11 18:52:09
+Ad group with name '[610] Turandot (12:00 - 23:00)' and id '36677871265' was updated to 'ENABLED\. 
+2017-11-11 18:52:10
+Ad group with name '[350] Sushiwok (11:00 - 00:00)' and id '23417217290' was updated to 'ENABLED\. 
+2017-11-11 18:52:11
+Ad group with name '[724] StarFood (11:00 - 21:30)' and id '50679807104' was updated to 'ENABLED\. 
+2017-11-11 18:52:12
+Ad group with name '[555] ????? (12:00 - 02:00)' and id '25006223210' was updated to 'ENABLED\. 
+2017-11-11 18:52:12
+Ad group with name '[866] ??????????' and id '48998238860' was updated to 'ENABLED\. 
+2017-11-11 18:52:13
+Ad group with name '[652] The ???? (12:00 - 00:00)' and id '44062281800' was updated to 'ENABLED\. 
+2017-11-11 18:52:14
+Ad group with name '[498] ????????? (10:00 - 22:30)' and id '23334147290' was updated to 'ENABLED\. 
+2017-11-11 18:52:15
+Ad group with name '[166] ? ????????? - ???????? ????? (10:00 ? 22:00)' and id '23316553250' was updated to 'ENABLED\. 
+2017-11-11 18:52:15
+Ad group with name '[616] Palau (10:00 - 22:00)' and id '33651527930' was updated to 'ENABLED\. 
+2017-11-11 18:52:16
+Ad group with name '[771] ????????? (12:00 - 22:30)' and id '47343148536' was updated to 'ENABLED\. 
+2017-11-11 18:52:17
+Ad group with name '[397] Wok Wok (12:00 - 23:30)' and id '23438698730' was updated to 'ENABLED\. 
+2017-11-11 18:52:18
+Ad group with name '[596] Atlas Wok (11:00 - 01:00)' and id '38824256383' was updated to 'ENABLED\. 
+2017-11-11 18:52:18
+Ad group with name '[556] Anor (11:00 - 00:00)' and id '25272582530' was updated to 'ENABLED\. 
+2017-11-11 18:52:19
+Ad group with name '[681] Momento (10:00 - 21:00)' and id '50089124371' was updated to 'ENABLED\. 
+2017-11-11 18:52:20
+Ad group with name '[126] Shipudim (12:00 ? 22:00)' and id '23315814890' was updated to 'ENABLED\. 
+2017-11-11 18:52:21
+Ad group with name '[548] Chicken ?? (11:00 - 22:00)' and id '24995351450' was updated to 'ENABLED\. 
+2017-11-11 18:52:21
+Ad group with name '[215] 2 Bro's Bakery (16:30 - 02:00)' and id '23416592330' was updated to 'ENABLED\. 
+2017-11-11 18:52:22
+Ad group with name '[407] 2 ?????? (10:00 - 23:00)' and id '23394260330' was updated to 'ENABLED\. 
+2017-11-11 18:52:23
+Ad group with name '[32] ???? ?????? - ???? ?????? (11:00 ? 01:30)' and id '23307741290' was updated to 'ENABLED\. 
+2017-11-11 18:52:24
+Ad group with name '[757] ?? ??? (12:00 - 05:00)' and id '43851868257' was updated to 'ENABLED\. 
+2017-11-11 18:52:25
+Ad group with name '[643] NexxioPizza (11:00 - 00:00)' and id '45534929195' was updated to 'ENABLED\. 
+2017-11-11 18:52:25
+Ad group with name '[565] KCC (10:30 - 19:30)' and id '26462933450' was updated to 'ENABLED\. 
+2017-11-11 18:52:26
+Ad group with name '[520] Rakudza (11:00 - 01:30)' and id '23333639810' was updated to 'ENABLED\. 
+2017-11-11 18:52:27
+Ad group with name '[772] Burrito Go (11:00 - 21:30)' and id '55425869508' was updated to 'ENABLED\. 
+2017-11-11 18:52:28
+Ad group with name '[698] DosFood Express (00:00 - 00:00)' and id '43065274046' was updated to 'ENABLED\. 
+2017-11-11 18:52:28
+Ad group with name '[866] ??? ???' and id '48998238700' was updated to 'ENABLED\. 
+2017-11-11 18:52:29
+Ad group with name '[560] Qazaq Pie (09:00 - 19:00)' and id '25527636290' was updated to 'ENABLED\. 
+2017-11-11 18:52:30
+Ad group with name '[398] ????? (12:00 - 23:30)' and id '45453736275' was updated to 'ENABLED\. 
+2017-11-11 18:52:31
+Ad group with name '[943] York Food (09:00 - 21:00)' and id '43687506850' was updated to 'ENABLED\. 
+2017-11-11 18:52:31
+Ad group with name '[735] Love Sushi (11:00 - 03:00)' and id '48727597884' was updated to 'ENABLED\. 
+2017-11-11 18:52:32
+Ad group with name '[711] ?????? ??????? (10:00-21:00)' and id '43433190945' was updated to 'ENABLED\. 
+2017-11-11 18:52:33
+Ad group with name '[574] Rustica (11:00-21:00)' and id '40442182024' was updated to 'ENABLED\. 
+2017-11-11 18:52:34
+Ad group with name '[287] ??????? (10:00 - 22:00)' and id '23328141050' was updated to 'PAUSED\. 
+2017-11-11 18:52:35
+Ad group with name '[50] ??????? (11:00 ? 23:00)' and id '23309149730' was updated to 'ENABLED\. 
+2017-11-11 18:52:35
+Ad group with name '[708] Sensei pizza (10:00 - 22:00)' and id '43708394557' was updated to 'ENABLED\. 
+2017-11-11 18:52:36
+Ad group with name '[625] ??? ??????? (11:00 - 23:30)' and id '42505206840' was updated to 'ENABLED\. 
+2017-11-11 18:52:37
+Ad group with name '[866] ????? ???' and id '48998238380' was updated to 'ENABLED\. 
+2017-11-11 18:52:38
+Ad group with name '[866] ??????????' and id '48998238180' was updated to 'ENABLED\. 
+2017-11-11 18:52:38
+Ad group with name '[473] ??????? ?????? ?????? (11:00 - 23:00)' and id '23342372330' was updated to 'ENABLED\. 
+2017-11-11 18:52:39
+Ad group with name '[608] Stop_Turandot (12:00 - 00:00)' and id '38192497857' was updated to 'ENABLED\. 
+2017-11-11 18:52:40
+Ad group with name '[770] Hardee`s (11:00 - 22:30)' and id '51964248608' was updated to 'ENABLED\. 
+2017-11-11 18:52:41
+Ad group with name '[931] ??? ????' and id '47881146946' was updated to 'ENABLED\. 
+2017-11-11 18:52:41
+Ad group with name '[488] 2Bro?s delivery (12:00 - 03:00)' and id '23384740130' was updated to 'ENABLED\. 
+2017-11-11 18:52:42
+Ad group with name '[33] ? ????????? (10:00 ? 22:00)' and id '23308148090' was updated to 'ENABLED\. 
+2017-11-11 18:52:43
+Ad group with name '[931] ????? ???' and id '47881146906' was updated to 'ENABLED\. 
+2017-11-11 18:52:44
+Ad group with name '[611] Sushigam (11:00 - 01:00)' and id '48473344067' was updated to 'ENABLED\. 
+2017-11-11 18:52:44
+Ad group with name '[619] ???????? (10:00 - 21:00)' and id '39966006197' was updated to 'ENABLED\. 
+2017-11-11 18:52:45
+Ad group with name '[307] ?????????? (11:00 - 00:00)' and id '23416948250' was updated to 'ENABLED\. 
+2017-11-11 18:52:46
+Ad group with name '[480] ?????? (10:00 - 23:30)' and id '23477504330' was updated to 'PAUSED\. 
+2017-11-11 18:52:47
+Ad group with name '[718] Gourmet Burger Station (12:00- 21:00)' and id '43512453483' was updated to 'ENABLED\. 
+2017-11-11 18:52:48
+Ad group with name '[763] Absolute (13:00 - 02:00)' and id '49082195247' was updated to 'ENABLED\. 
+2017-11-11 18:52:48
+Ad group with name '[603] ??? (11:00 - 21:00)' and id '41973262488' was updated to 'ENABLED\. 
+2017-11-11 18:52:49
+Ad group with name '[866] ??????????' and id '48998238620' was updated to 'ENABLED\. 
+2017-11-11 18:52:50
+Ad group with name '[866] ?????? ????' and id '48998238220' was updated to 'ENABLED\. 
+2017-11-11 18:52:51
+Ad group with name '[533] ??? FOOD (11:00 - 22:00)' and id '23336897330' was updated to 'ENABLED\. 
+2017-11-11 18:52:51
+Ad group with name '[931] ??? ???' and id '47881147346' was updated to 'ENABLED\. 
+2017-11-11 18:52:52
+Ad group with name '[760] Bangkok (11:30 ? 21:30)' and id '46632210123' was updated to 'ENABLED\. 
+2017-11-11 18:52:53
+Ad group with name '[558] Entrecote (10:00 - 22:00)' and id '25273179530' was updated to 'ENABLED\. 
+2017-11-11 18:52:54
+Ad group with name '[639] ??????? (11:00 - 22:00)' and id '47558436624' was updated to 'ENABLED\. 
+2017-11-11 18:52:54
+Ad group with name '[208] Govinda's (12:00 - 19:00)' and id '23320355090' was updated to 'ENABLED\. 
+2017-11-11 18:52:55
+Ad group with name '[855] ?????? Mix (11:00 - 22:30)' and id '53863010291' was updated to 'ENABLED\. 
+2017-11-11 18:52:56
+Ad group with name '[680] Beerhoff (12:00 - 02:00)' and id '42082428403' was updated to 'ENABLED\. 
+2017-11-12 16:12:51
+Ad group with name '[486] Bolognese (12:00 - 22:40)' and id '23384854730' was updated to 'ENABLED\. 
+2017-11-12 16:12:51
+Ad group with name '[577] Pizza Mia (10:00 - 21:00)' and id '36680366369' was updated to 'ENABLED\. 
+2017-11-12 16:12:51
+Ad group with name '[460] Lucky Donuts (09:00 - 18:00)' and id '23342383850' was updated to 'ENABLED\. 
+2017-11-12 16:12:51
+Ad group with name '[477] Samurai 5 sushi (10:00 - 01:00)' and id '23385631850' was updated to 'ENABLED\. 
+2017-11-12 16:12:51
+Ad group with name '[624] ????? (11:00 - 22:00)' and id '40179821736' was updated to 'ENABLED\. 
+2017-11-12 16:12:51
+Ad group with name '[25] Ginger Sushi ?????? (09:00 ? 21:45)' and id '23304834530' was updated to 'ENABLED\. 
+2017-11-12 16:12:51
+Ad group with name '[524] ???? ? ????????? (12:00 - 23:30)' and id '23442352970' was updated to 'ENABLED\. 
+2017-11-12 16:12:51
+Ad group with name '[726] Sadu (11:00 - 21:00)' and id '44241802792' was updated to 'ENABLED\. 
+2017-11-12 16:12:51
+Ad group with name '[675] Sadu_restoran (11:00 - 21:00)' and id '43001332765' was updated to 'ENABLED\. 
+2017-11-12 16:12:51
+Ad group with name '[678] Garden Food (11:00 - 01:00)' and id '43748357018' was updated to 'ENABLED\. 
+2017-11-12 16:12:51
+Ad group with name '[362] Turandot (11:00 - 23:00)' and id '23333045450' was updated to 'ENABLED\. 
+2017-11-12 16:12:51
+Ad group with name '[167] ?????????? ???????? - ? ????????? (10:00 ? 22:00)' and id '23316558770' was updated to 'ENABLED\. 
+2017-11-12 16:12:52
+Ad group with name '[79] Asian BBQ (24h)' and id '26124766010' was updated to 'PAUSED\. 
+2017-11-12 16:12:52
+Ad group with name '[359] CHEESY ?????? (09:00 - 19:00)' and id '23333044250' was updated to 'PAUSED\. 
+2017-11-12 16:12:52
+Ad group with name '[631] Mealdoc (10:00 - 22:00)' and id '39904572479' was updated to 'PAUSED\. 
+2017-11-12 16:12:52
+Ad group with name '[216] CHEESY (09:00 - 19:00)' and id '23415461570' was updated to 'PAUSED\. 
+2017-11-12 16:12:52
+Ad group with name '[126] Shipudim (12:00 ? 22:00)' and id '23315814890' was updated to 'PAUSED\. 
+2017-11-12 16:12:52
+Ad group with name '[215] 2 Bro's Bakery (16:30 - 02:00)' and id '23416592330' was updated to 'PAUSED\. 
+2017-11-12 16:12:52
+Ad group with name '[389] Mckaeen&Chicago Dogs (10:00 - 22:00)' and id '25572094730' was updated to 'PAUSED\. 
+2017-11-12 16:12:52
+Ad group with name '[608] Stop_Turandot (12:00 - 00:00)' and id '38192497857' was updated to 'PAUSED\. 
+2017-11-12 16:12:52
+Ad group with name '[488] 2Bro?s delivery (12:00 - 03:00)' and id '23384740130' was updated to 'PAUSED\. 
+2017-11-12 16:12:52
+Ad group with name '[648] Meat&Fish (10:00 - 23:00)' and id '45373022300' was updated to 'PAUSED\. 
+2017-11-12 16:30:58
+Ad group with name '[215] 2 Bro's Bakery (16:30 - 02:00)' and id '23416592330' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[240] Bon-Ton (10:00 - 22:45)' and id '23325276170' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[877] SVOBODA pub (13:00 - 22:30)' and id '48333248134' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[674] Sushi Astana (10:00 - 00:00)' and id '47269000791' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[79] Asian BBQ (24h)' and id '26124766010' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[359] CHEESY ?????? (09:00 - 19:00)' and id '23333044250' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[458] Gippo ??????? (10:00 - 22:00)' and id '23477001050' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[1069] Street Meat (11:00 - 22:30)' and id '50766010717' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[61] ????? ????_?????? (11:00 - 22:00)' and id '23416694330' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[1013] Freshbox (10:00- 00:00)' and id '57965529988' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[963] ???? ???? (09:30 - 01:00)' and id '47522140257' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[965] Pronto coffee house (15:00 - 22:30)' and id '48282252406' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[973] ?????? (12:00 - 23:00)' and id '52155822689' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[949] ??????????? (11:00 - 20:30)' and id '26359062170' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[862] ???? ??????? (11:00 - 10:30)' and id '46019977901' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[583] Masisso (10:00 - 21:00)' and id '34458428583' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[631] Mealdoc (10:00 - 22:00)' and id '39904572479' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[648] Meat&Fish (10:00 - 23:00)' and id '45373022300' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[511] ??????? ????? (11:00- 00:30)' and id '52231803009' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[966] Movenpick (08:00 - 23:00)' and id '49987782472' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[982] Italissima (11:00 - 20:00)' and id '49858643896' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[980] Fattoush (11:00 - 22:30)' and id '48924464829' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[939] ??????? (10:00 - 23:00)' and id '52133619031' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[873] Ferrum Cafe (11:00 - 22:30)' and id '52181163267' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[569] Sadu (10:00 - 22:00)' and id '26940359090' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[753] ???? ???? (11:00 - 23:00)' and id '46282724564' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[216] CHEESY (09:00 - 19:00)' and id '23415461570' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[126] Shipudim (12:00 ? 22:00)' and id '23315814890' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[860] Korean Street Food (11:00 - 22:30)' and id '53556178200' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[389] Mckaeen&Chicago Dogs (10:00 - 22:00)' and id '25572094730' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[521] Caffeterria (10:00 - 19:00)' and id '23333628290' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[488] 2Bro?s delivery (12:00 - 03:00)' and id '23384740130' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[1004] ???? ? ?????? (11:00- 22:30)' and id '48392521614' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[480] ?????? (10:00 - 23:30)' and id '23477504330' was updated to 'ENABLED\. 
+2018-01-24 18:31:57
+Ad group with name '[162] ?????? (12:00 ? 19:30)' and id '23316350330' was updated to 'ENABLED\. 
+2018-01-24 18:31:58
+Ad group with name '[536] Quick Pizza (10:00 - 22:00)' and id '23428462130' was updated to 'PAUSED\. 
+2018-01-24 18:31:58
+Ad group with name '[707] Papa Joe (23:00 - 07:00)' and id '43478410203' was updated to 'PAUSED\. 
+2018-01-24 18:31:58
+Ad group with name '[460] Lucky Donuts (09:00 - 18:00)' and id '23342383850' was updated to 'PAUSED\. 
+2018-01-24 18:31:58
+Ad group with name '[358] Red Dragon Asian fast food (11:00 - 23:00)' and id '23333042570' was updated to 'PAUSED\. 
+2018-01-24 18:31:58
+Ad group with name '[365] ??? ???????_?????? (10:00 - 21:00 )' and id '23410404050' was updated to 'PAUSED\. 
+2018-01-24 18:31:58
+Ad group with name '[806] Del Papa (11:00 - 22:30)' and id '36650037031' was updated to 'PAUSED\. 
+2018-01-24 18:31:58
+Ad group with name '[668] Abba Sushi (11:00 - 00:00)' and id '42103184142' was updated to 'PAUSED\. 
+2018-01-24 18:31:58
+Ad group with name '[436] Tokyo (11:00 - 22:30)' and id '23442267770' was updated to 'PAUSED\. 
+2018-01-24 18:31:58
+Ad group with name '[712] Z????? (00:00-00:00)' and id '47053817907' was updated to 'PAUSED\. 
+2018-01-24 18:31:58
+Ad group with name '[962] Entrecote (10:00 - 22:00)' and id '25273179530' was updated to 'PAUSED\. 
+2018-01-24 18:31:58
+Ad group with name '[675] Sadu_restoran (11:00 - 21:00)' and id '43001332765' was updated to 'PAUSED\. 
+2018-01-24 18:31:58
+Ad group with name '[673] Arigato (11:00 - 23:00)' and id '41725117163' was updated to 'PAUSED\. 
+2018-01-24 18:31:58
+Ad group with name '[964] ?? ?????????? (11:00 - 19:00)' and id '49733233882' was updated to 'PAUSED\. 
+2018-01-24 18:31:58
+Ad group with name '[555] ????? (12:00 - 02:00)' and id '25006223210' was updated to 'PAUSED\. 
+2018-01-24 18:31:58
+Ad group with name '[972] Comely (12:00 - 22:30)' and id '49003419963' was updated to 'PAUSED\. 
+2018-01-24 18:31:58
+Ad group with name '[1011] Burger Shop (12:00- 22:30)' and id '54972611248' was updated to 'PAUSED\. 
+2018-01-24 18:31:58
+Ad group with name '[596] Atlas Wok (11:00 - 01:00)' and id '38824256383' was updated to 'PAUSED\. 
+2018-01-24 18:31:58
+Ad group with name '[772] Burrito Go (11:00 - 21:30)' and id '55425869508' was updated to 'PAUSED\. 
+2018-01-24 18:31:58
+Ad group with name '[574] Rustica (11:00-21:00)' and id '40442182024' was updated to 'PAUSED\. 
+2018-01-24 18:31:58
+Ad group with name '[688] ???? ? ??? (10:00 - 23:30)' and id '40700649981' was updated to 'PAUSED\. 
+2018-01-24 18:31:58
+Ad group with name '[639] ??????? (11:00 - 22:00)' and id '47558436624' was updated to 'PAUSED\. 
+2018-01-24 18:31:58
+Ad group with name '[208] Govinda's (12:00 - 19:00)' and id '23320355090' was updated to 'PAUSED\. 
+2018-01-24 18:31:58
+Ad group with name '[680] Beerhoff (12:00 - 02:00)' and id '42082428403' was updated to 'PAUSED\. 
+2018-01-29 14:14:07
+Ad group with name '[675] Sadu_restoran (11:00 - 21:00)' and id '43001332765' was updated to 'ENABLED\. 
+2018-01-29 14:14:07
+Ad group with name '[555] ????? (12:00 - 02:00)' and id '25006223210' was updated to 'ENABLED\. 
+2018-01-29 14:14:07
+Ad group with name '[632] ??? ????? (10:00 - 17:00)' and id '39234752814' was updated to 'ENABLED\. 
+2018-01-29 14:14:07
+Ad group with name '[1011] Burger Shop (12:00- 22:30)' and id '54972611248' was updated to 'ENABLED\. 
+2018-01-29 14:14:07
+Ad group with name '[745] ?????? (11:00 - 22:00)' and id '44460534717' was updated to 'ENABLED\. 
+2018-01-29 14:14:07
+Ad group with name '[47] ? ????????? (????-????) (10:00 ? 15:00)' and id '23308180250' was updated to 'ENABLED\. 
+2018-01-29 14:14:07
+Ad group with name '[688] ???? ? ??? (10:00 - 23:30)' and id '40700649981' was updated to 'ENABLED\. 
+2018-01-29 14:14:07
+Ad group with name '[965] Pronto coffee house (15:00 - 22:30)' and id '48282252406' was updated to 'PAUSED\. 
+2018-01-29 14:14:07
+Ad group with name '[403] ?????-????? (12:00 - 23:30)' and id '23442284690' was updated to 'PAUSED\. 
+2018-01-29 14:14:07
+Ad group with name '[751] Monti (10:00 - 21:30)' and id '50203794172' was updated to 'PAUSED\. 
+2018-01-29 14:14:07
+Ad group with name '[509] ????????-??????????? (12:00 - 21:30)' and id '23334087890' was updated to 'PAUSED\. 
+2018-01-29 14:14:07
+Ad group with name '[565] KCC (10:30 - 19:30)' and id '26462933450' was updated to 'PAUSED\. 
+2018-01-29 14:14:07
+Ad group with name '[473] ??????? ?????? ?????? (11:00 - 23:00)' and id '23342372330' was updated to 'PAUSED\. 
+2018-01-29 14:14:07
+Ad group with name '[760] Bangkok (11:30 ? 21:30)' and id '46632210123' was updated to 'PAUSED\. 
+2018-01-29 15:16:21
+Ad group with name '[965] Pronto coffee house (15:00 - 22:30)' and id '48282252406' was updated to 'ENABLED\. 
+2018-01-29 15:16:22
+Ad group with name '[28] ?? ??? ?? (10:00 ? 21:30)' and id '23307731570' was updated to 'PAUSED\. 
+2018-01-29 15:16:22
+Ad group with name '[47] ? ????????? (????-????) (10:00 ? 15:00)' and id '23308180250' was updated to 'PAUSED\. 
+2018-01-29 17:17:06
+Ad group with name '[473] ??????? ?????? ?????? (11:00 - 23:00)' and id '23342372330' was updated to 'ENABLED\. 
+2018-01-29 17:17:06
+Ad group with name '[756] KFC ???????? (11:00 - 23:30)' and id '53592518148' was updated to 'PAUSED\. 
+2018-01-29 17:17:06
+Ad group with name '[129] KFC ?????? (11:00 ? 22:30)' and id '47930138098' was updated to 'PAUSED\. 
+2018-01-29 17:17:06
+Ad group with name '[388] KFC ?????? (11:00 - 23:30)' and id '45546458559' was updated to 'PAUSED\. 
+2018-01-29 17:17:06
+Ad group with name '[755] KFC ????????? (11:00 - 23:30)' and id '44066191679' was updated to 'PAUSED\. 
+2020-03-03 16:47:32
+Ad group with name '[1447] IVANI (09:00-17:00)' and id '23301945530' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2488] Pizza Hut (10:30 — 23:30)' and id '23315963690' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[234] Test_Hokku sushi (10:00 - 21:00)_OD_' and id '23325122450' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[348] Белый Кит (10:00 - 22:00) _OD_' and id '23333038010' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[509] Хачапури-Хинкальевич (12:00 - 21:30)' and id '23334087890' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[460] Lucky Donuts (09:00 - 18:00)' and id '23342383850' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2358] RUMI (10:30 - 23:00)' and id '23353056770' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[962] Entrecote (10:00 - 22:00)_OD_' and id '25273179530' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1123] Куликовский (11:00 - 20:30) ГЗЕ' and id '26359062170' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[580] Excellent (10:00 - 00:00)' and id '34857553580' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1071] SUSHI'N'ROLL (11:00-22:30)' and id '35626147326' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[605] Андерсон (10:00 - 21:00) ГЗЕ' and id '37432794239' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[700]Чибо Сано ГЗЕ' and id '42667639883' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[998] Chak-Chak (11:00 - 22:00) _OD_' and id '49309152421' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1055] Panini (11:00 — 22:15) _OD_' and id '51483738894' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[983] Noodles (11:00 - 22:30)_OD_' and id '52236367333' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1076] Pizza House (11:00 — 21:30)_OD_' and id '52739272792' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1078] Пинта Street (12:00 — 22:30)' and id '53232157835' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[850] BAO – Noodles & Sushi Bar (11:00 — 22:45) _OD_' and id '53307376995' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1000] МансАрда (12:00 - 21:30)_OD_' and id '54156167642' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[559] Uno Dos Tacos (11:00 — 22:30)' and id '54930595400' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1096] Chicago Diner (10:00 — 22:00)' and id '54932592200' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1119] Тимьян (11:00 — 23:00)' and id '55246884914' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1278] Degirmen (11:00 - 22:30) _OD_' and id '55360327586' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[328] SFC (11:00 - 22:00)' and id '55778882347' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1189] Yuframe Burger (11:00 — 21:30) _OD_' and id '56035283244' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1063] Аист (12:00-22:30)' and id '56467312270' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[992]katana.kz' and id '57044866690' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1451] Салем (11:00 - 22:30)_OD_' and id '57139673646' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1218] Public (11:00 - 22:30)_OD_' and id '57226646554' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1362] Mega Sushi(11:00 - 22:30)_OD_' and id '57311151006' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1094] Счастье (11:00 — 22:30)_OD_' and id '57860883772' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1305] Ocean Basket (11:00 - 22:30) _OD_' and id '58141068700' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1433] Thai (11:00 - 22:30)_OD_' and id '59061579835' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[777]Beyaz Firin_OD_' and id '59081981742' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1164] Ленконцерт (11:00 — 22:30)_OD_' and id '59083543124' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1262]Takara Sushi Bar_OD_' and id '59086958382' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1452] Тануки(11:00 - 22:30)' and id '59378314998' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1499]B.O. Cafe_OD_' and id '59625064537' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1571]Del Papa _OD_' and id '59625158377' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1395] Fish (11:00 - 22:30)_OD_' and id '59926196058' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1521]Double Coffee_OD_' and id '60258736983' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[885]Line Brew Mix_OD_' and id '60272427503' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1461] Papa John's (11:00 - 22:30) _OD_' and id '60272833122' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1245]Assorti Residence_OD_' and id '60273675103' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1223]Lee House Chiken _OD_' and id '60467894126' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1504]Guinness Pub_OD_' and id '60875080509' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1551]Дареджани' and id '60880415469' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[883]Manana_OD_' and id '60880436589' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1336]J.Z. Peking Duck_OD_' and id '60880954549' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[640]Bubble Waffle_OD_' and id '60881656069' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1344]Spice Mantra_OD_' and id '60987340069' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1421] Bar #Zavod (12:00 - 22:30)_OD_' and id '61229583274' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[976]Kulinarich' and id '61249116653' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1339]Шалахо _OD_' and id '61249479093' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1079]The Coffee Point_OD_' and id '61254359653' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1095]Пивоварофф' and id '61647471036' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1552]Coco _OD_' and id '61648442396' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[870]Shavlego_OD_' and id '61656767436' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1293]Cafe Leffe _OD_' and id '61664274375' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1546]Café Central_OD_' and id '61818431432' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1385]Гости_OD_' and id '61823543272' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1308]Пиццерия Chocofood (Тестовый ресторан)' and id '61839727376' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[778]Аль Хайыр' and id '61887753739' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[732]Tandoor_OD_' and id '61892803579' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1379]Damdi doner_OD_' and id '61897894739' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1547]Roma Caffe_OD_' and id '62212266155' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1476]Ketchup_OD_' and id '62319231515' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1516]Arcade_OD_' and id '62745539198' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1244]Assorti Mega_OD_' and id '62994994218' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1256]Thali_OD_' and id '63040644713' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[851]Pasta Nostra_OD_' and id '63040649753' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1016]Мармарис' and id '63180292793' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[908]Traveler’s Coffee' and id '63195176284' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1533]Крапива_OD_' and id '63204791884' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1531]Суши Мастер _OD_' and id '63293119642' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1515]Мафия суши_OD_' and id '63325503764' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1523]Chechil Pub _OD_' and id '64141181160' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[539]Вода Samal' and id '64245246449' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[880]Белый журавль _OD_' and id '64254845400' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1509]Parovoz Bar_OD_' and id '64369394129' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1343]Good Choice_OD_' and id '64436037074' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1092]Pizza Grill_OD_' and id '64467811187' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1102]Вьет Кафе' and id '64562921714' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1168]Coffee Boom_OD_' and id '64568021194' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2289]Pizza Hut' and id '65261639641' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1151]Агайын_OD_' and id '65369354601' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1454] Gabali(12:00-22:30)_OD_' and id '66754196388' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1489]Art house bar' and id '67022863608' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1558]Бродвей бургер _OD_' and id '67129699652' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[754]Pate&Pizza_OD_' and id '67130019532' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1715]Rafale_OD_' and id '67955898676' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[952]Куликовский Гранд-Парк' and id '68111953636' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1575]Boston_OD_' and id '68499496304' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1511]Шашлыкофф' and id '68518291104' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1925] Gippo Астана _OD_ (11:00 — 21:00) ГЗЕ' and id '25951292210' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1260]OZYURT' and id '45286728875' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1091] Food Time (00:00 — 00:00)' and id '49252486970' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2082] One More Burger (12:20 - 22:30)' and id '56716436337' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[942] Бибигон (11:00 - 21:30)' and id '58156225607' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1505]Булка' and id '58172389821' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1041]BEE Cafe_OD_' and id '58181776541' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1529]Mine coffee_OD_' and id '58699965542' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1090]Пивоварофф' and id '58875253902' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[986]Discovery Coffee На Кунаева' and id '58884253662' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1040] Мамашвили (11:00 — 22:30)_OD_' and id '59096293404' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[987]Discovery Coffee На Ирченко' and id '59384242457' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1556]Вкусная пицца' and id '59935030485' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[746]LabFood' and id '60895278865' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1471]Coffee Boom_OD_' and id '60896176985' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1307]Ocean Basket_OD_' and id '60968256146' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1370]Inclair_OD_' and id '61039309123' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1527]Tortoliano ГЗЕ' and id '61441816756' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1553]Дареджани Астана' and id '61737113216' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1161]Corner 57_OD_' and id '61779775099' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1204]Sunday_OD_' and id '62107449755' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1483]Xalva' and id '62107766635' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1486]Babur_OD_' and id '62120857195' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[757]Ми Сон' and id '62922513058' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1554]Дареджани Керуен' and id '62936371353' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1260]Ozyurt Астана_OD_' and id '63093663524' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1381]Meat Point' and id '63100670564' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1494]Saf_OD_' and id '64135763711' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1380]Еда города ГЗЕ' and id '64136644729' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1382]Plov&Love' and id '64259382707' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1222]DosBar_OD_' and id '64261088587' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1028]Pizza City_OD_' and id '64265945427' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2032]Del Papa Нур-Султан' and id '65098090967' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1480]Aidak Pub' and id '65449344230' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1577]Rosetta coffee_OD_' and id '65453076190' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1323]Goldman Empire_OD_' and id '66270042605' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1488]Manga Sushi' and id '67095015731' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1029]Come inn bistro_OD_' and id '69833994178' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1555]Дареджани Республика' and id '69873851988' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2332]Gentlemen's Quality Bar Asia' and id '94369002894' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2153]The Shoreditch' and id '94379266046' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1031]Woki' and id '94970224999' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1722]Rio' and id '95444250629' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2492]Riza Doner' and id '95737208576' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1881]Smoky Burger Studio' and id '95984956276' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1695]La Tartine Keruencity' and id '96044566536' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1724]Chechil Pub Кабанбай батыра' and id '96049347815' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2367]Marvarid' and id '96125396819' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2553]IceFood' and id '96157870312' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2229]Сладкая Сказка Республики' and id '96217894715' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2082]One More Burger' and id '96251221322' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2241]Манты на любой вкус' and id '97321155593' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2177]Famous music bar' and id '97479666364' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2158]Checkpoint Brasserie Жагалау' and id '98385773467' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2115]Kessaku Sushi' and id '98387627707' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2198]Zakazbuketov.kz' and id '98622427110' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2269]Rabiya' and id '98795303194' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1868]Wow Pizza Левый берег' and id '101138822332' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2354]Rumi Желтоксан' and id '101373188848' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2334]Star Food ТРЦ Keruen' and id '104396165748' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1580] Ваши Суши (12:00 - 22:00)' and id '23416756250' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1508]Пицца Хан' and id '64710681041' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1939] Перчини (11:00-00:45)' and id '75604238525' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1936]Чучвара' and id '79892301247' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2087]MotoPizza' and id '84470428780' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1580]Ваши Суши' and id '85724482205' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1939]Перчини' and id '91189967927' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2145]Foodberry' and id '93027534173' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2475]Coffee river' and id '94254756712' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2137] Луиджи (12:00 - 00:00)' and id '23429233490' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1224] Manufacture (12:00-22:30)_OD_' and id '56570411886' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1247] DOMa Pub (12:00 - 22:30)_OD_' and id '57133382829' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1393] Бочонок (12:00-22:30)_OD_' and id '57985958296' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1456]Sushi Love' and id '57997233981' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1326] SalemChick (11:00 - 22:00)' and id '58035426472' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[957]Бибигон' and id '58695572862' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1014] можно Суши (11:00 - 21:00)_OD_' and id '59308590218' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1124]Свой_OD_' and id '59976179983' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1043]Комильфо' and id '61933311075' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1455]Япошка' and id '63969905729' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1495]Burger Авеню_OD_' and id '68122913424' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1648]Кочерга_OD_' and id '71359697015' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1704]Green City Food Park_OD_' and id '75065195006' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1690]Turandot Караганда_OD_' and id '75689889589' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[958]Бибигон Тбц' and id '75945328243' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1608]Aqualuxe' and id '76941408475' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1982]Ниндзя Суши' and id '77435097985' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[350]Sushiwok' and id '84344130140' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2222]Meduza' and id '85723385725' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2376]Business café' and id '85738484125' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2219]Empire City' and id '86309625249' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1110]Burger King City Mall' and id '87794819432' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2050]The Taco' and id '90944126581' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2473]Don Rido на Гоголя' and id '91490399897' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2476]Sobranie Bar & Kitchen' and id '92110830463' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2012]Свой Gastropub' and id '92253234174' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2362]Смотри Суши' and id '92255074734' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1124]Свой' and id '92342658686' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1495]Burger Авеню' and id '92761576985' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2482]Раян' and id '92806515494' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2469]Don Rido' and id '92876444543' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2438]Hani cakes & coffee Таир' and id '92889767029' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2227]Qazyna' and id '92906710749' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2427]Sportpit.kz' and id '93098485665' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1648]Кочерга' and id '93325435905' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1690]Turandot Караганда' and id '93574642003' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2435]Бибигон на Магнуме' and id '93586474963' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2474]Don Rido на Строителей' and id '93665400469' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2257]Citrus' and id '93730471419' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2137]Луиджи Pizza Sushi' and id '93743631299' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2434]Мята Lounge' and id '93782348386' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2526]Trend' and id '93806711933' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2525]Зерно' and id '93831902813' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2373]Chef & Cook' and id '93840408197' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[957]Бибигон Юбилейный' and id '94047219579' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2335]KCC ТЦ Таир' and id '94150442555' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2547]Yakuza' and id '94430297726' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2437]Hani Cakes & Coffee' and id '94847110278' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2477]Hani cakes & coffee на Чкалова' and id '95296995593' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1704]Green City Food Park' and id '95549330522' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2544]Бибигон ЦУМ' and id '95554714076' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2463]Шанырак' and id '96079907929' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2551]Korean Town' and id '96178701986' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1612]La Villa' and id '96279752600' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2531]Цветок Короля Артура' and id '96321345580' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2571]Expresso' and id '96699205894' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2532]Rafale' and id '96819862696' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2441]Hani cakes & coffee на Шахтёров' and id '96909269194' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2440]Hani cakes & coffee Абдирова' and id '97123138967' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2574]Marisolka' and id '97316083576' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2387]Соберись' and id '97422552426' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2472]Don Rido на 45' and id '97695903030' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2480]Viva la Plov' and id '97890019607' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2545]Today coffee' and id '98166681329' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2533]Zakazbuketov' and id '98331238067' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2470]Trest' and id '99032209171' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2578]ParaPaPizza' and id '99184712338' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2569]Nati food' and id '99355911042' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2560]Шашлычок' and id '99409218871' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2378]Business Ashana' and id '99740219968' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2019]Miso' and id '100655872744' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2566]На Юбилейном' and id '100866413194' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2537]Damdissimo' and id '101103151848' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2580]Food Setka' and id '101519406607' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2442]Qazan' and id '103175006132' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2471]The Ribs' and id '103393056848' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[403] Бахчи-Сарай (12:00 - 23:30)' and id '23442284690' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1976] Gippo Шымкент_OD_ (10:00 - 22:00) ГЗЕ' and id '23477001050' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1197] Korizza (11:00 — 22:30)_OD_' and id '53176387810' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1257] Kim Chi (12:00 — 22:30)_OD_' and id '55190375182' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1241] Steak Field (13:00 — 22:30)_OD_' and id '57801632815' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1237] Amore Mio (11:00 — 22:30)_OD_' and id '57906998352' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1111] Wok №1 (10:00 — 22:30)' and id '58072562152' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1114] Chicken Shymkent (11:00 — 23:00)' and id '59179787193' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1294] Paparazzi (11:00 — 22:30)_OD_' and id '59571493858' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1345] Орбита (11:00 — 22:30)_OD_' and id '59703015722' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1240]Кофемолка' and id '59757344365' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[399]Mozzarella' and id '60708066465' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1152]Аль Хаят' and id '60776689386' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1289]Стамбул_OD_' and id '61574505496' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1340] Pinta Pride (10:00 — 23:00)' and id '61775502910' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[659]Sushi Shymkent' and id '62883204602' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[597] The Папа (12:00 — 23:10)' and id '63268253728' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1259] Ozyurt Шымкент (11:00 — 21:30)_OD_' and id '63700796291' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1241]Steak Field_OD_' and id '63965393209' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[404]BarVilla' and id '71960138540' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1908]Burger King Hyper House' and id '74396558537' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1601]Шеш Беш' and id '75406946799' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1929]Burger King Mega Planet_OD_' and id '75725783189' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1955]Dora Pizza' and id '76563148696' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1736]Chitir Сhicken Шымкент' and id '76667075432' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1602]Jimmy пой' and id '78609884155' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1972]Gippo Баян-сулу' and id '86235891320' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2512]Turandot' and id '90978927302' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2208]Pizza roll' and id '91538305337' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2541]ШЕФ burger' and id '92711573702' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1976]Gippo Керемет' and id '93004942248' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1971]Gippo Электрон' and id '93085660705' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2270]Мизам Север' and id '93292792797' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1289]Стамбул' and id '93562331013' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1970]Gippo Туркестан' and id '93753470339' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2497]Додо Пицца на Валиханова' and id '93819492637' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2535]Coffee Boom' and id '93849044382' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2506]Chester' and id '94023561259' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2021]Hookah raise' and id '94116127595' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2521]Zheka’s Doner House на Момышулы' and id '94271279459' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2303]Bahandi Burger Керемет' and id '94614937900' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2496]Додо Пицца на Токаева' and id '94679043998' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1975]Gippo Север' and id '95420288058' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1929]Burger King Mega Planet' and id '95533229484' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1954]Coffee Like Аль-Фараби' and id '95857793748' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2136]Lanzhou Шымкент' and id '96309400947' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2211]Lotus суши' and id '96592213329' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2465]Sushi Time' and id '96704451351' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2467]Saka Grand' and id '96713259514' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2509]Дана Кофейня' and id '97147216287' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2242]17th Avenue' and id '97297246921' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1974]Gippo Гиперхаус' and id '97442521361' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2120]Bahandi Burger Север' and id '98710369412' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2519]Zheka's Doner House Север' and id '99524192571' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2023]Кок Сарай' and id '100205106384' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2443]Hadya' and id '100727426784' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2262]Just Barbeque' and id '101802827270' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1432]City Rolls' and id '59503469445' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1434]Хочу роллы' and id '59732468103' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1311]Burger Club Усть-Каменогорск' and id '59733497503' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1425]Origano' and id '59846268166' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1235]Роллоff' and id '63601728680' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1424]Три Самурая' and id '65014896670' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1568]I love pizza' and id '68207086792' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1946]Lucky pizza' and id '75004320423' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2237]Chef`s' and id '83109997152' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2228]Palermo' and id '83587892099' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2225]Choco' and id '83587892139' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2216]Patina' and id '83587892299' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2214]Куликовский' and id '83587892339' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2189]Завернули' and id '83587892539' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2186]Coffee river' and id '83587892579' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2178]Ducat coffee house' and id '87289552784' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2245]Barashka' and id '87689473415' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2396]Coffee Time' and id '89335075130' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2255]Craft Burgers' and id '90631591142' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2312]Steppebird' and id '91477675430' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2397]Үй пісірмесі' and id '92239551577' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2454]Barrel bar' and id '92806079654' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2343]Tongal house' and id '93102220305' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2405]Food Place' and id '93255514745' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2285]Nexxio pizza' and id '93347318869' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2314]Сказка' and id '93504247803' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2284]Ваши Суши Актау' and id '93609981975' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2384]Teplitsa' and id '93742929539' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2426]Golden Fish' and id '93748941832' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2224]Bulka' and id '93933175636' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2517]Burger King Актау' and id '94673843195' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2280]Napoli' and id '94800398113' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2394]SushiDo' and id '94890636898' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2223]Traveler`s Coffee' and id '95036891244' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2264]Perfect Relax' and id '95068636313' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2308]Sovereign' and id '95207786298' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2307]Kristall' and id '95566407484' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2445]Избушка' and id '96534497991' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2290]ВАХтангури' and id '97399922070' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2328]Seasons' and id '97508855641' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2491]Abdulaziz' and id '99166268393' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2478]Fисташка' and id '99261056092' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2278]Шашлыки от Дяди Гадима' and id '100484238384' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2393]Jaguar' and id '103393838088' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[2383]Кишлак' and id '104608110864' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1085] Paragon (12:00 - 22:40)' and id '57212489507' was updated to 'ENABLED\. 
+2020-03-03 16:47:32
+Ad group with name '[1485] Додо Пицца (10:00 - 22:45)' and id '64652896254' was updated to 'ENABLED\. 
+2020-03-03 16:47:33
+Ad group with name '[1233] Red Dragon (11:00 — 23:00)' and id '23304670970' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[240] Bon-Ton (10:00 - 22:45)' and id '23325276170' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[297] Три апельсина (11:00 - 22:00)_OD_' and id '23328316370' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[364] Три Самурая (10:00 - 21:30) _OD_' and id '23333046410' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[771] Принцесса (12:00 - 22:30) _OD_' and id '47343148536' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1015] Алтын-Ай (11:00 - 22:30)' and id '48030069290' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1116] Империя Пиццы (9:300 — 2:30)' and id '52095985893' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1098] Мадлен (11:00 — 22:30) _OD_' and id '52748087659' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1074] Лагманная Шин-Жан (10:00 — 23:00)' and id '52774133419' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[970] Велоедов (11:00 - 22:30) _OD_' and id '53093968455' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1358] Versailles (11:00 -22:30) _OD_' and id '53912875810' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[63] Ляззат (11:00 — 16:30)' and id '54080528097' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[774] Космос (11:00 - 22:00)' and id '54224803805' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1193] Batyr burger (11:00 — 22:30)_OD_' and id '54522247575' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1374] Umami (11:00- 22:30)_OD_' and id '55496745102' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1207]Mr Burger&Pizza' and id '57045275250' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1372] Мастер пицца  (00:00 — 00:00) ГЗЕ' and id '57513481196' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1419] Madeni (11:00 -22:30)' and id '57774223665' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1444] Ля Шампур (11:00 - 22:30)' and id '58040681213' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1355] Тапакерка (11:00 - 22:30)_OD_' and id '58822344939' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1457]Kaz Burger' and id '58979571302' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1413] Асхана Гуляш (09:00 - 00:00)' and id '59071519435' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1400] Заказ Плова (11:00 - 20:00)_OD_' and id '59095269340' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1406] Kung Fu Sushi (11:30 - 22:30)_OD_' and id '59849841753' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1389] Пушкин (11:00 - 22:30)_OD_' and id '59897838713' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1180]Sushi&Roll`s' and id '60026275165' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1410]Ресторан' and id '60274094103' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1209]Istanbul' and id '60498894414' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[871]Ханум_OD_' and id '60499193454' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1501]Manga Sushi' and id '60499462534' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1075]Mama`s' and id '60988912985' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1560]Kaz Eco' and id '60992831465' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1154]Лагман project_OD_' and id '60995270385' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1190]New Bisquit' and id '61004595789' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1443] 12 Muqam(11:00 - 22:30)' and id '61030765809' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1296]Shurpa' and id '61081836946' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[937]Пруссия_OD_' and id '61541539415' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1324]Leo’s Café&Terrace_OD_' and id '61665449415' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1183]Peri Peri' and id '61889175976' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1365]Кокшетауское мороженое_OD_' and id '62249892700' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1162]Мадлен VD' and id '62319009275' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1351]Пекарня «Keremet»' and id '63058652593' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1217]Saebiz _OD_' and id '63061879833' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1561]Синьор Помидор_OD_' and id '63125749138' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1369]Das Grill Haus ГЗЕ' and id '63294654202' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[489]Julie's BAR' and id '64370351751' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1149]Отау' and id '64440937634' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1325]Мимоза' and id '64463385594' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1215]Ларисс Иванну Хачу' and id '65360092721' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1492]Landmark' and id '65557421950' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1202]PandaFood_OD_' and id '67004288092' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1664]Tytin' and id '68734190302' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[688] Джек и Чан (10:00 - 23:30)' and id '40700649981' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[733] Tatin (10:00 - 22:00)' and id '43105301934' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[963] Чибо Сано (09:30 - 01:00)' and id '47522140257' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[965] Pronto coffee house (15:00 - 22:30)_OD_' and id '48282252406' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[611] Sushigam (11:00 - 01:00)' and id '48473344067' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[943] York Food (09:00 - 21:00)' and id '50128704860' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1487]Zhar Pizza' and id '56759915690' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1472]Vzлетный_OD_' and id '60265620926' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1386]Шашлычная Аракс_OD_' and id '60792413749' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1050]Sokko Food' and id '60897832545' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[943]York Food' and id '61035981003' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1438]Banzay music bar' and id '61447854396' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1462]Degirmen' and id '64121950249' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1201]Тан кафе_OD_' and id '64131463089' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[729]Береке_OD_' and id '64261098187' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1316]Nathan's famous' and id '65163705561' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1350]ChitirChicken_OD_' and id '66915234688' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1530]Хочу Шашлык_OD_' and id '66918157888' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1700]Tchibo' and id '75196973246' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1755]Tchibo Mega Silk Way_OD_' and id '75278255999' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1707]Plov Street' and id '79995917727' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1755]Tchibo Mega Silk Way' and id '80314068950' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1780]Doner Republic' and id '94536516703' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2006]CPF Мечта' and id '94695073174' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2180]GolPas Кулинария Саркан' and id '94966523469' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1798]Добрая кухня' and id '95085410626' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1696]Papa Grill на Тауелсыздык' and id '95219240385' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2554]Scramble' and id '95397985866' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2429]Lazzat' and id '95454628493' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1886]Ribs' and id '95736885976' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2188]Draft Бейбитшилик' and id '96543674155' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2514]Caviar House ТРЦ Евразия' and id '97125647242' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1795]Blonde & Brune' and id '97641100204' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1772]Лепим и Варим' and id '101587616291' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1484]Monkey Shoulder' and id '104238345508' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1866]Annecy Fleurs Кенесары' and id '104396076388' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[625] Три самурая (11:00 - 23:30)' and id '42505206840' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1654]Alize' and id '75381174479' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1512]Хуторок' and id '75382820879' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2466]Choco Атырау' and id '90951439102' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2577]Хаш' and id '93019887730' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2489]CPF Аtyrau' and id '94655862915' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2197]Самурык' and id '94743954873' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2140]Afsona' and id '95539676553' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2587]Bavarius' and id '96086879645' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2483]Breeze' and id '96350973794' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2539]Jagalay’' and id '96614486316' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2196]Taksim' and id '96735743427' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2516]Lanzhou' and id '96762123827' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2540]Маяк' and id '97573605798' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2579]Хаш Aspazdyq' and id '99140833873' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[238] Qpizza (11:00 - 02:00)' and id '23417018450' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[366] Три Самурая (10:00 - 21:30)' and id '23422600250' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2112] KCC (10:30 - 19:30)' and id '26462933450' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1346] Ресторан "Наири" (11:00-22:30)' and id '56181120405' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1073] Арт-кафе (12:00 - 22:30)_OD_' and id '58501161755' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1408] Ресторан "Хан" (11:00 - 22:30)' and id '58826681278' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1106] Zheka`s doner house (11:00 - 22:30)_OD_' and id '59419075407' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1496]Depot' and id '60379160119' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1545]Кафе "Ассорти"_OD_' and id '60380670439' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1010] Rational (00:00 - 00:00)' and id '60632078794' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1317] Лагманная Халал(11:00 - 21:00)' and id '61776828190' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1497]Wurst Grill Bar' and id '62754486458' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1459]Булка Family food_OD_' and id '62914614604' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[959]Zumrat' and id '66758578052' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1143]Assorti_OD_' and id '69700389548' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1613]Улыбка' and id '75102915054' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1726]Точка Вкуса' and id '76022391773' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1631]Yummy Chicken King_OD_' and id '79023772467' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1459]Булка Family food' and id '79142861907' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1579]Trafford doner & fast food' and id '80449893501' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2240]KFC City mall' and id '81922831405' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1633]Yummy Chicken King (АЗС)' and id '87690828175' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2239]KFC Орбита' and id '90261758351' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2142]Перчини' and id '90469322354' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2495]Наукат' and id '91818924137' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2502]Pelman Ata 12мкр' and id '93313620957' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1143]Assorti' and id '93348711797' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1631]Yummy Chicken King' and id '93622050616' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2479]Мята Fusion' and id '93666507829' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1545]Кафе "Ассорти"' and id '93925500856' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2013]Dop Domalak' and id '94361103318' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2503]Pelman Ata на Складская' and id '95035783842' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2431]Zheka`s doner house Таир' and id '95453049538' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2500]Pelman Ata' and id '96902266514' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2112]KCC' and id '99511908652' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2590]Оливье' and id '103634205571' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[401] Кок-Сарай (12:00 - 23:30)' and id '23444278370' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1475]Hot Rock Dog' and id '64998797641' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1044]KFC' and id '72943083084' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1940]Киш Миш' and id '76640341592' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1898]Izumidai.kz' and id '79202019754' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1109]Burger King Шымкент Плаза' and id '81898412371' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2249]Home Sushi Home Pizza' and id '83641654237' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2090]KFC Момышулы' and id '86365202126' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1044]cpc' and id '90480071741' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2277]Мёд' and id '91100581142' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2446]Gippo Момышулы' and id '92535085623' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2141]Tom yamm' and id '94808459193' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1961]Coffee Like Рыскулова' and id '95210627698' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1973]Gippo Юг-сити' and id '97290049361' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2324]Aral' and id '98212451232' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2089]CPF Шымкент Плаза' and id '98701415652' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2588]Bahandi Burger Таукехана' and id '106434445668' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[613] Япоша (10:00 - 22:00)' and id '40419178072' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1306]Burger Club Grill' and id '62101601478' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1268]Eclipse Food' and id '57768900901' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[422]Экспресс аппетит' and id '59684744303' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1482]Bm sushi' and id '60763949957' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1744]Coffee Boom' and id '92235522614' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1442]Три Самурая Актау' and id '59949436294' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2202]Arba Grill' and id '83587892379' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2265]Бархан Pizzeria & Sushi' and id '87794999472' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2391]Damdi' and id '92261513897' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2382]До Дома' and id '93012748799' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2501]15/69' and id '94131786195' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2149]CPFАктау' and id '99471132648' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[2486]Chechil Pub' and id '99489209728' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[1578]Cosmos City Cafe' and id '93733432552' was updated to 'PAUSED\. 
+2020-03-03 16:47:33
+Ad group with name '[618] Япоша (10:00 - 22:00)' and id '40410477576' was updated to 'PAUSED\. 
